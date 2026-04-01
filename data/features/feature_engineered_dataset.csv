@@ -1,0 +1,1001 @@
+User_ID,Age,Gender,Location,Income,Interests,Last_Login_Days_Ago,Purchase_Frequency,Average_Order_Value,Total_Spending,Product_Category_Preference,Time_Spent_on_Site_Minutes,Pages_Viewed,Newsletter_Subscription,Age_Group,Income_Tier,Engagement_Score,Revenue_Per_Visit,Recency_Score,CLV_Proxy,Interest_Category_Match,Power_User
+#1,56,Male,Suburban,38037,Sports,5,7,18,2546,Books,584,38,True,56+,Low,0.8447,261.58,24,126,0,1
+#2,46,Female,Rural,103986,Technology,15,7,118,320,Electronics,432,40,False,46-55,High,0.7681,44.44,14,826,1,0
+#3,32,Female,Suburban,101942,Sports,28,1,146,3766,Apparel,306,1,True,26-35,High,0.2171,738.43,1,146,0,0
+#4,60,Female,Suburban,71612,Fashion,18,3,163,4377,Apparel,527,29,False,56+,Mid,0.5995,498.33,11,489,1,0
+#5,25,Male,Suburban,49725,Travel,2,5,141,4502,Health & Beauty,53,10,True,18-25,Low,0.2806,5096.6,27,705,0,0
+#6,38,Male,Suburban,25926,Travel,22,8,25,2669,Books,520,28,False,36-45,Low,0.7835,307.96,7,200,1,0
+#7,56,Male,Urban,124555,Fashion,11,7,152,1113,Home & Kitchen,330,31,True,56+,High,0.652,202.36,18,1064,0,1
+#8,36,Male,Urban,29496,Technology,26,7,108,2151,Apparel,558,19,True,36-45,Low,0.7107,231.29,3,756,0,1
+#9,40,Male,Rural,76447,Travel,25,6,130,4085,Books,325,3,True,36-45,Mid,0.4352,754.15,4,780,1,0
+#10,28,Male,Urban,121604,Food,13,8,61,4999,Electronics,114,36,False,26-35,High,0.5955,2631.05,16,488,0,0
+#11,28,Male,Urban,49806,Travel,4,1,78,4410,Health & Beauty,147,43,True,26-35,Low,0.3864,1800.0,25,78,0,0
+#12,41,Male,Rural,108199,Food,22,2,14,3119,Electronics,166,15,False,36-45,High,0.2614,1127.35,7,28,0,0
+#13,53,Female,Rural,61321,Fashion,7,9,29,3781,Apparel,379,33,True,46-55,Mid,0.771,598.58,22,261,1,1
+#14,57,Female,Rural,142041,Fashion,29,7,88,1543,Apparel,139,41,True,56+,High,0.6025,666.04,0,616,1,0
+#15,41,Male,Urban,122031,Travel,11,5,155,4296,Electronics,299,43,False,36-45,High,0.6311,862.07,18,775,0,0
+#16,20,Male,Urban,85095,Sports,22,9,120,3110,Apparel,276,45,True,18-25,Mid,0.7856,676.09,7,1080,0,1
+#17,39,Female,Rural,42656,Food,24,8,11,672,Books,178,26,False,36-45,Low,0.5705,226.52,5,88,0,0
+#18,19,Male,Suburban,75147,Technology,4,9,102,1432,Apparel,354,16,False,18-25,Mid,0.6501,242.71,25,918,0,0
+#19,41,Male,Rural,111396,Travel,28,3,22,4853,Health & Beauty,154,36,False,36-45,High,0.4245,1890.78,1,66,0,0
+#20,61,Male,Suburban,69666,Technology,15,7,13,4102,Books,201,33,False,56+,Mid,0.5889,1224.48,14,91,0,0
+#21,47,Female,Suburban,102368,Travel,1,9,179,3234,Home & Kitchen,115,20,True,46-55,High,0.535,1687.3,28,1611,0,0
+#22,55,Female,Rural,58787,Sports,23,2,118,4186,Apparel,554,13,True,46-55,Mid,0.4764,453.36,6,236,0,0
+#23,19,Female,Rural,133767,Sports,3,2,83,325,Apparel,68,33,False,18-25,High,0.3165,286.76,26,166,0,0
+#24,38,Female,Rural,82946,Sports,14,7,198,4300,Health & Beauty,445,5,True,36-45,Mid,0.5569,579.78,15,1386,1,0
+#25,50,Female,Urban,41727,Sports,6,4,104,2097,Health & Beauty,445,37,True,46-55,Low,0.6403,282.74,23,416,1,1
+#26,29,Male,Suburban,128351,Fashion,18,2,114,871,Electronics,326,14,False,26-35,High,0.349,160.31,11,228,0,0
+#27,39,Female,Urban,115081,Fashion,25,9,17,4624,Electronics,359,27,True,36-45,High,0.7218,772.81,4,153,0,1
+#28,61,Male,Urban,142721,Food,1,0,76,533,Electronics,145,23,False,56+,High,0.2213,220.55,28,0,0,0
+#29,42,Male,Rural,130058,Technology,6,2,119,3199,Health & Beauty,275,14,True,36-45,High,0.3191,697.96,23,238,0,0
+#30,44,Female,Urban,88056,Travel,6,8,18,2829,Electronics,509,40,True,36-45,Mid,0.8521,333.48,23,144,0,1
+#31,59,Female,Rural,23081,Travel,21,4,126,3507,Electronics,179,4,False,56+,Low,0.2781,1175.53,8,504,0,0
+#32,45,Male,Suburban,54196,Fashion,16,9,20,3240,Home & Kitchen,477,39,True,36-45,Low,0.866,407.55,13,180,0,1
+#33,33,Male,Rural,56735,Travel,29,1,108,965,Electronics,414,19,True,26-35,Low,0.3929,139.86,0,108,0,0
+#34,32,Male,Urban,124749,Fashion,5,6,51,2893,Apparel,153,47,False,26-35,High,0.6094,1134.51,24,306,1,0
+#35,64,Female,Urban,100102,Food,17,1,150,3011,Health & Beauty,104,4,True,56+,Mid,0.1174,1737.12,12,150,0,0
+#36,61,Female,Rural,99578,Technology,10,3,173,2515,Books,75,30,False,56+,Mid,0.3407,2012.0,19,519,0,0
+#37,20,Female,Rural,45498,Food,28,6,129,350,Home & Kitchen,128,19,True,18-25,Low,0.4197,164.06,1,774,1,0
+#38,54,Female,Urban,96865,Sports,21,3,150,3857,Health & Beauty,568,31,False,46-55,Mid,0.636,407.43,8,450,1,0
+#39,24,Female,Suburban,51656,Sports,18,6,21,4756,Health & Beauty,345,31,False,18-25,Low,0.6219,827.13,11,126,1,0
+#40,38,Male,Suburban,87695,Sports,7,6,46,1018,Apparel,531,9,False,36-45,Mid,0.5935,115.03,22,276,0,0
+#41,26,Female,Rural,57900,Food,3,0,83,1273,Electronics,159,13,False,26-35,Mid,0.167,480.38,26,0,0,0
+#42,56,Male,Suburban,148392,Travel,13,5,82,3303,Apparel,538,14,False,56+,High,0.5899,368.36,16,410,0,0
+#43,35,Male,Urban,137235,Technology,15,8,61,532,Electronics,426,46,True,26-35,High,0.8409,74.93,14,488,1,1
+#44,21,Male,Rural,104899,Sports,20,1,139,935,Electronics,23,10,True,18-25,High,0.1075,2439.13,9,139,0,0
+#45,42,Female,Urban,67701,Sports,19,2,65,2346,Health & Beauty,47,48,False,36-45,Mid,0.3979,2994.89,10,130,1,0
+#46,31,Female,Urban,128777,Sports,3,9,69,2362,Electronics,525,31,True,26-35,High,0.8441,269.94,26,621,0,1
+#47,26,Female,Suburban,39033,Technology,4,4,32,997,Home & Kitchen,144,37,False,26-35,Low,0.4638,415.42,25,128,0,0
+#48,43,Male,Rural,143193,Sports,5,8,112,3732,Home & Kitchen,585,23,True,36-45,High,0.7904,382.77,24,896,0,1
+#49,19,Male,Rural,30805,Technology,1,3,49,4667,Home & Kitchen,589,27,True,18-25,Low,0.6233,475.42,28,147,0,1
+#50,37,Male,Suburban,55851,Sports,4,0,73,3915,Health & Beauty,419,6,False,36-45,Low,0.2757,560.62,25,0,1,0
+#51,45,Male,Urban,46832,Food,12,3,94,346,Apparel,85,26,False,36-45,Low,0.3216,244.24,17,282,0,0
+#52,64,Male,Urban,83437,Food,28,5,160,2529,Books,416,2,True,56+,Mid,0.4434,364.76,1,800,0,0
+#53,24,Male,Urban,135725,Technology,27,4,166,1090,Electronics,482,45,True,18-25,High,0.712,135.68,2,664,1,1
+#54,61,Female,Urban,33944,Food,24,0,188,3410,Books,456,13,False,56+,Low,0.3412,448.68,5,0,0,0
+#55,25,Female,Rural,39873,Technology,10,3,98,1026,Apparel,297,19,True,18-25,Low,0.4021,207.27,19,294,0,0
+#56,64,Female,Rural,60372,Food,23,5,40,3538,Apparel,112,1,True,56+,Mid,0.2589,1895.36,6,200,0,0
+#57,52,Female,Suburban,109464,Food,25,9,187,2707,Health & Beauty,230,40,False,46-55,High,0.7274,706.17,4,1683,0,0
+#58,31,Male,Suburban,35379,Technology,21,9,29,1174,Home & Kitchen,96,32,True,26-35,Low,0.5989,733.75,8,261,0,0
+#59,34,Male,Rural,137322,Travel,29,3,192,4122,Home & Kitchen,378,22,False,26-35,High,0.4684,654.29,0,576,0,0
+#60,53,Female,Rural,56751,Food,26,8,139,3899,Apparel,156,48,False,46-55,Low,0.6951,1499.62,3,1112,0,0
+#61,57,Male,Urban,120082,Sports,20,4,162,4884,Health & Beauty,421,29,False,56+,High,0.5762,696.06,9,648,1,0
+#62,21,Female,Urban,109822,Travel,24,7,22,3251,Health & Beauty,105,2,True,18-25,High,0.3389,1857.71,5,154,0,0
+#63,19,Female,Suburban,25110,Technology,25,8,131,3538,Electronics,330,40,True,18-25,Low,0.7472,643.27,4,1048,1,1
+#64,23,Female,Rural,74341,Travel,13,9,112,4673,Home & Kitchen,439,38,False,18-25,Mid,0.8374,638.68,16,1008,0,0
+#65,59,Male,Suburban,32087,Fashion,23,4,115,3591,Apparel,132,48,False,56+,Low,0.5255,1632.27,6,460,1,0
+#66,21,Female,Rural,43762,Fashion,14,5,128,806,Books,382,11,True,18-25,Low,0.4797,126.6,15,640,0,0
+#67,46,Female,Urban,135812,Food,23,0,79,3164,Home & Kitchen,138,17,True,46-55,High,0.1797,1375.65,6,0,1,0
+#68,35,Female,Suburban,102617,Food,5,6,195,853,Electronics,270,43,True,26-35,High,0.653,189.56,24,1170,0,1
+#69,43,Male,Suburban,120483,Sports,4,3,108,687,Health & Beauty,550,8,False,36-45,High,0.4817,74.95,25,324,1,0
+#70,61,Male,Rural,29596,Travel,14,1,91,1434,Apparel,396,22,False,56+,Low,0.4011,217.27,15,91,0,0
+#71,51,Female,Urban,123555,Fashion,10,4,84,1947,Home & Kitchen,557,4,True,46-55,High,0.4997,209.73,19,336,0,0
+#72,27,Male,Suburban,127539,Food,17,2,127,4034,Books,464,11,True,26-35,High,0.4111,521.64,12,254,0,0
+#73,53,Male,Urban,38313,Travel,10,5,93,4026,Electronics,450,8,True,46-55,Low,0.5008,536.8,19,465,0,0
+#74,31,Male,Suburban,133175,Food,26,7,78,3417,Electronics,331,9,False,26-35,High,0.5151,619.4,3,546,0,0
+#75,48,Male,Urban,86549,Food,7,6,68,4120,Home & Kitchen,253,26,False,46-55,Mid,0.5367,977.08,22,408,1,0
+#76,32,Male,Rural,134914,Fashion,16,2,197,3255,Books,285,2,True,26-35,High,0.2499,685.26,13,394,0,0
+#77,25,Male,Suburban,43705,Fashion,1,7,135,4402,Electronics,274,16,True,18-25,Low,0.5254,963.94,28,945,0,0
+#78,31,Male,Suburban,87364,Food,17,1,120,2298,Apparel,20,31,False,26-35,Mid,0.2369,6894.0,12,120,0,0
+#79,40,Male,Urban,93445,Technology,21,9,71,264,Electronics,239,6,False,36-45,Mid,0.5202,66.28,8,639,1,0
+#80,57,Male,Urban,123892,Food,29,8,153,2098,Books,270,21,True,56+,High,0.5932,466.22,0,1224,0,0
+#81,38,Male,Suburban,98645,Food,9,3,137,3157,Health & Beauty,418,26,True,36-45,Mid,0.5168,453.16,20,411,0,0
+#82,33,Female,Rural,22023,Sports,6,0,114,2184,Health & Beauty,310,19,True,26-35,Low,0.2931,422.71,23,0,1,0
+#83,62,Female,Urban,139654,Sports,19,7,77,4528,Home & Kitchen,31,28,False,56+,High,0.458,8763.87,10,539,0,0
+#84,35,Male,Urban,79796,Sports,13,6,24,502,Books,104,8,True,26-35,Mid,0.3369,289.62,16,144,0,0
+#85,64,Female,Urban,100073,Technology,3,4,192,513,Electronics,186,14,False,56+,Mid,0.3447,165.48,26,768,1,0
+#86,41,Female,Suburban,112197,Technology,7,9,44,144,Electronics,128,24,False,36-45,High,0.5676,67.5,22,396,1,0
+#87,43,Male,Suburban,84429,Food,22,4,192,4257,Health & Beauty,210,48,True,36-45,Mid,0.5712,1216.29,7,768,0,0
+#88,42,Male,Suburban,124195,Sports,9,6,23,2567,Health & Beauty,414,44,True,36-45,High,0.7436,372.03,20,138,1,1
+#89,62,Male,Suburban,81627,Technology,22,4,186,967,Apparel,281,37,False,56+,Mid,0.5441,206.48,7,744,0,0
+#90,58,Female,Rural,53848,Fashion,5,7,111,118,Health & Beauty,253,26,True,56+,Low,0.5756,27.98,24,777,0,0
+#91,46,Female,Rural,57804,Food,10,5,109,464,Apparel,19,31,False,46-55,Mid,0.3919,1465.26,19,545,0,0
+#92,32,Male,Suburban,35379,Travel,23,4,16,3932,Electronics,136,32,True,26-35,Low,0.4279,1734.71,6,64,0,0
+#93,62,Male,Rural,79664,Food,17,8,39,679,Apparel,223,41,True,56+,Mid,0.6907,182.69,12,312,0,1
+#94,18,Male,Urban,47766,Travel,12,1,58,645,Apparel,3,2,True,18-25,Low,0.0457,12900.0,17,58,0,0
+#95,42,Female,Urban,129126,Sports,23,0,153,4250,Home & Kitchen,236,25,True,36-45,High,0.2872,1080.51,6,0,0,0
+#96,24,Female,Urban,88099,Travel,16,7,120,4973,Health & Beauty,465,44,False,18-25,Mid,0.8124,641.68,13,840,0,0
+#97,26,Female,Suburban,56060,Sports,3,2,188,3139,Apparel,228,2,False,26-35,Low,0.2165,826.05,26,376,0,0
+#98,41,Female,Urban,114733,Fashion,25,6,81,4237,Electronics,499,42,False,36-45,High,0.781,509.46,4,486,0,0
+#99,18,Male,Rural,89122,Travel,22,9,89,4144,Books,521,1,True,18-25,Mid,0.6543,477.24,7,801,1,1
+#100,61,Male,Suburban,36087,Food,9,7,92,4426,Apparel,139,36,False,56+,Low,0.5713,1910.5,20,644,0,0
+#101,25,Male,Rural,68868,Sports,29,5,51,552,Health & Beauty,276,12,False,18-25,Mid,0.4238,120.0,0,255,1,0
+#102,41,Male,Urban,139119,Food,15,9,26,4061,Home & Kitchen,291,9,False,36-45,High,0.5694,837.32,14,234,1,0
+#103,28,Female,Urban,43225,Technology,5,8,182,1481,Electronics,53,36,True,26-35,Low,0.5598,1676.6,24,1456,1,0
+#104,34,Female,Urban,115286,Sports,23,6,16,1567,Home & Kitchen,110,41,False,26-35,High,0.5466,854.73,6,96,0,0
+#105,25,Male,Suburban,26643,Travel,13,9,164,2838,Books,4,28,True,18-25,Low,0.5199,42570.0,16,1476,1,0
+#106,52,Male,Rural,113059,Sports,14,4,19,1316,Apparel,47,38,True,46-55,High,0.4132,1680.0,15,76,0,0
+#107,52,Female,Suburban,56727,Food,20,7,43,980,Apparel,94,33,False,46-55,Low,0.5262,625.53,9,301,0,0
+#108,50,Male,Suburban,31005,Fashion,15,1,45,3914,Health & Beauty,560,42,True,46-55,Low,0.6223,419.36,14,45,0,1
+#109,22,Female,Urban,129079,Sports,16,6,162,3249,Apparel,213,46,False,18-25,High,0.6383,915.21,13,972,0,0
+#110,59,Male,Suburban,85697,Travel,23,3,15,184,Electronics,436,22,False,56+,Mid,0.5024,25.32,6,45,0,0
+#111,56,Male,Suburban,36029,Technology,13,8,161,4244,Books,508,25,False,56+,Low,0.7578,501.26,16,1288,0,0
+#112,58,Male,Urban,135281,Fashion,17,0,155,1268,Home & Kitchen,205,18,False,56+,High,0.2253,371.12,12,0,0,0
+#113,45,Male,Suburban,34226,Technology,23,6,143,4264,Books,381,6,False,36-45,Low,0.4868,671.5,6,858,0,0
+#114,24,Male,Urban,83646,Sports,8,5,38,3229,Apparel,73,18,True,18-25,Mid,0.3423,2653.97,21,190,0,0
+#115,26,Male,Urban,80603,Food,21,7,135,3745,Home & Kitchen,516,16,False,26-35,Mid,0.6673,435.47,8,945,1,0
+#116,25,Male,Urban,48731,Food,2,4,162,2626,Health & Beauty,76,15,True,18-25,Low,0.2864,2073.16,27,648,0,0
+#117,29,Female,Urban,129458,Travel,5,0,192,2967,Books,77,48,False,26-35,High,0.3377,2311.95,24,0,1,0
+#118,51,Female,Suburban,130384,Food,6,0,90,3616,Home & Kitchen,410,8,False,46-55,High,0.2829,529.17,23,0,1,0
+#119,50,Female,Urban,88926,Fashion,12,8,183,3467,Home & Kitchen,106,13,False,46-55,Mid,0.4471,1962.45,17,1464,0,0
+#120,40,Female,Urban,25997,Food,18,9,161,2294,Home & Kitchen,551,43,True,36-45,Low,0.9344,249.8,11,1449,1,1
+#121,41,Female,Suburban,75506,Travel,22,5,84,3655,Electronics,476,7,True,36-45,Mid,0.5098,460.71,7,420,0,0
+#122,54,Male,Suburban,98229,Sports,22,9,35,545,Books,275,17,True,46-55,Mid,0.6101,118.91,7,315,0,0
+#123,52,Male,Rural,69815,Sports,1,4,136,3726,Home & Kitchen,88,32,True,46-55,Mid,0.3997,2540.45,28,544,0,0
+#124,61,Female,Suburban,62092,Food,17,0,124,4116,Books,77,22,False,56+,Mid,0.1752,3207.27,12,0,0,0
+#125,57,Male,Suburban,82539,Technology,11,5,135,3975,Home & Kitchen,77,13,False,56+,Mid,0.3134,3097.4,18,675,0,0
+#126,39,Female,Rural,86077,Sports,10,5,37,3437,Health & Beauty,442,47,True,36-45,Mid,0.7399,466.56,19,185,1,1
+#127,44,Female,Suburban,41817,Food,19,2,140,361,Health & Beauty,540,23,True,36-45,Low,0.5307,40.11,10,280,0,0
+#128,52,Male,Suburban,57861,Travel,14,7,84,1948,Health & Beauty,245,29,True,46-55,Mid,0.5897,477.06,15,588,0,0
+#129,18,Male,Suburban,33428,Food,26,0,175,4125,Apparel,578,22,False,18-25,Low,0.4689,428.2,3,0,0,0
+#130,52,Male,Suburban,63934,Sports,10,0,198,2366,Home & Kitchen,382,1,True,46-55,Mid,0.2228,371.62,19,0,0,0
+#131,54,Female,Rural,135555,Travel,15,5,87,191,Apparel,570,29,True,46-55,High,0.7024,20.11,14,435,0,1
+#132,64,Male,Suburban,134367,Food,28,9,188,4322,Books,142,48,False,56+,High,0.7258,1826.2,1,1692,0,0
+#133,31,Female,Suburban,30258,Fashion,19,0,99,4275,Apparel,368,5,True,26-35,Low,0.2396,697.01,10,0,1,0
+#134,20,Female,Rural,77775,Travel,4,5,185,3409,Books,84,35,False,18-25,Mid,0.455,2435.0,25,925,1,0
+#135,18,Female,Urban,101580,Fashion,2,0,30,1082,Books,143,10,False,18-25,High,0.1389,453.99,27,0,0,0
+#136,22,Male,Rural,114947,Technology,9,5,63,3543,Books,352,19,False,18-25,High,0.5121,603.92,20,315,0,0
+#137,43,Male,Urban,25469,Travel,10,2,193,2633,Apparel,545,37,False,36-45,Low,0.6211,289.87,19,386,0,0
+#138,31,Female,Rural,48854,Fashion,28,7,112,793,Home & Kitchen,152,7,False,26-35,Low,0.3977,313.03,1,784,0,0
+#139,56,Male,Rural,26256,Sports,11,5,68,4220,Apparel,158,46,True,56+,Low,0.5672,1602.53,18,340,0,0
+#140,44,Male,Suburban,144086,Sports,14,0,81,255,Home & Kitchen,446,35,True,36-45,High,0.4728,34.3,15,0,0,0
+#141,26,Male,Urban,96256,Technology,7,4,188,3688,Home & Kitchen,303,45,False,26-35,Mid,0.607,730.3,22,752,0,0
+#142,32,Female,Suburban,53937,Travel,23,7,29,1912,Books,450,13,False,26-35,Low,0.6099,254.93,6,203,1,0
+#143,32,Female,Urban,119134,Travel,15,2,121,4214,Apparel,224,10,True,26-35,High,0.2642,1128.75,14,242,0,0
+#144,43,Male,Rural,21651,Travel,22,5,68,1507,Home & Kitchen,43,2,True,36-45,Low,0.2247,2102.79,7,340,0,0
+#145,59,Female,Rural,70288,Technology,19,4,80,1316,Health & Beauty,264,6,False,56+,Mid,0.3404,299.09,10,320,0,0
+#146,30,Male,Urban,104730,Travel,22,5,146,1510,Home & Kitchen,3,8,True,26-35,High,0.2388,30200.0,7,730,0,0
+#147,49,Male,Suburban,45051,Sports,15,9,118,3597,Health & Beauty,268,36,True,46-55,Low,0.7247,805.3,14,1062,1,1
+#148,56,Male,Suburban,47386,Fashion,28,0,138,4472,Apparel,596,25,False,56+,Low,0.4982,450.2,1,0,1,0
+#149,49,Male,Suburban,95054,Sports,24,6,166,4940,Apparel,16,44,True,46-55,Mid,0.5103,18525.0,5,996,0,0
+#150,21,Female,Suburban,131562,Sports,8,8,65,651,Apparel,334,47,True,18-25,High,0.7933,116.95,21,520,0,1
+#151,47,Female,Rural,36184,Fashion,11,1,44,3494,Home & Kitchen,464,40,True,46-55,Low,0.5535,451.81,18,44,0,0
+#152,54,Female,Rural,53787,Sports,29,9,132,1276,Electronics,59,7,True,46-55,Low,0.4209,1297.63,0,1188,0,0
+#153,40,Male,Rural,41621,Technology,9,4,140,4834,Home & Kitchen,177,46,False,36-45,Low,0.5394,1638.64,20,560,0,0
+#154,56,Male,Rural,95564,Fashion,15,9,113,4432,Home & Kitchen,63,23,True,56+,Mid,0.5233,4220.95,14,1017,0,0
+#155,62,Male,Rural,97984,Sports,1,3,16,1097,Books,561,19,False,56+,Mid,0.5569,117.33,28,48,0,0
+#156,32,Female,Suburban,79792,Food,1,5,36,4176,Books,307,46,True,26-35,Mid,0.6545,816.16,28,180,0,1
+#157,60,Male,Suburban,65253,Sports,19,5,10,2831,Home & Kitchen,246,22,False,56+,Mid,0.4687,690.49,10,50,0,0
+#158,46,Female,Suburban,54051,Technology,3,1,181,4037,Health & Beauty,289,13,False,46-55,Low,0.2821,838.13,26,181,0,0
+#159,53,Female,Suburban,69811,Travel,10,1,96,4152,Books,332,21,True,46-55,Mid,0.3574,750.36,19,96,1,0
+#160,30,Female,Rural,50447,Sports,8,3,50,472,Home & Kitchen,527,1,False,26-35,Low,0.4245,53.74,21,150,0,0
+#161,49,Female,Rural,148046,Travel,15,0,132,2348,Electronics,255,19,False,46-55,High,0.2608,552.47,14,0,0,0
+#162,24,Female,Rural,103930,Food,10,8,84,948,Health & Beauty,510,33,False,18-25,High,0.8089,111.53,19,672,0,0
+#163,39,Female,Urban,143278,Sports,1,6,51,2656,Apparel,463,4,False,36-45,High,0.5224,344.19,28,306,0,0
+#164,45,Male,Suburban,120037,Fashion,29,6,126,2422,Home & Kitchen,199,42,False,36-45,High,0.6051,730.25,0,756,0,0
+#165,19,Male,Suburban,50254,Travel,18,2,170,603,Home & Kitchen,271,3,True,18-25,Low,0.248,133.51,11,340,0,0
+#166,59,Female,Rural,104045,Food,2,2,187,3289,Health & Beauty,558,27,False,56+,High,0.5662,353.66,27,374,0,0
+#167,62,Female,Suburban,136859,Fashion,19,0,72,802,Books,64,41,False,56+,High,0.2863,751.87,10,0,0,0
+#168,23,Male,Suburban,77418,Fashion,13,2,174,3725,Books,230,35,True,18-25,Mid,0.4239,971.74,16,348,0,0
+#169,45,Female,Rural,134534,Fashion,22,2,196,414,Books,249,28,True,36-45,High,0.3913,99.76,7,392,0,0
+#170,45,Female,Urban,34472,Fashion,1,3,136,2476,Apparel,246,6,False,36-45,Low,0.291,603.9,28,408,1,0
+#171,61,Male,Urban,131193,Sports,2,3,185,1140,Health & Beauty,587,6,True,56+,High,0.4909,116.52,27,555,1,0
+#172,61,Female,Urban,23471,Sports,29,2,142,4478,Health & Beauty,157,44,True,56+,Low,0.4374,1711.34,0,284,1,0
+#173,37,Female,Rural,127332,Sports,16,9,57,3090,Books,564,23,True,36-45,High,0.817,328.72,13,513,0,1
+#174,47,Female,Suburban,140312,Food,15,7,12,357,Books,88,33,True,46-55,High,0.5226,243.41,14,84,0,0
+#175,28,Male,Rural,143379,Food,13,7,125,674,Electronics,313,16,True,26-35,High,0.5483,129.2,16,875,0,0
+#176,45,Male,Rural,115804,Food,16,0,184,4769,Electronics,66,24,True,36-45,High,0.1813,4335.45,13,0,0,0
+#177,42,Male,Suburban,28329,Technology,17,6,199,1652,Home & Kitchen,20,5,False,36-45,Low,0.2689,4956.0,12,1194,0,0
+#178,56,Female,Urban,54865,Food,21,1,108,4618,Home & Kitchen,33,41,False,56+,Low,0.3071,8396.36,8,108,1,0
+#179,50,Female,Urban,66850,Sports,29,0,125,857,Health & Beauty,558,42,True,46-55,Mid,0.5822,92.15,0,0,1,0
+#180,18,Male,Rural,74220,Sports,29,2,23,2910,Health & Beauty,73,13,True,18-25,Mid,0.1944,2391.78,0,46,1,0
+#181,44,Female,Urban,132234,Technology,7,3,121,1204,Apparel,343,47,False,36-45,High,0.6041,210.61,22,363,0,0
+#182,30,Female,Rural,113808,Technology,24,5,70,4624,Apparel,133,12,True,26-35,High,0.34,2086.02,5,350,0,0
+#183,58,Female,Rural,128381,Food,26,9,168,3559,Electronics,55,5,False,56+,High,0.4061,3882.55,3,1512,0,0
+#184,20,Female,Suburban,26397,Travel,17,4,104,4092,Home & Kitchen,61,37,True,18-25,Low,0.4151,4024.92,12,416,0,0
+#185,56,Female,Suburban,117909,Technology,7,3,26,303,Electronics,520,31,False,56+,High,0.6079,34.96,22,78,1,0
+#186,23,Male,Suburban,149004,Fashion,13,7,133,2875,Electronics,272,28,False,18-25,High,0.5993,634.19,16,931,0,0
+#187,25,Female,Rural,55525,Sports,5,3,33,2432,Home & Kitchen,246,28,True,18-25,Low,0.4285,593.17,24,99,0,0
+#188,44,Male,Suburban,73072,Fashion,26,9,125,2092,Apparel,176,30,True,36-45,Mid,0.6333,713.18,3,1125,1,1
+#189,26,Female,Urban,110106,Sports,17,1,160,2343,Home & Kitchen,317,18,True,26-35,High,0.3298,443.47,12,160,0,0
+#190,54,Male,Urban,103820,Sports,3,2,91,406,Books,131,44,True,46-55,High,0.4222,185.95,26,182,0,0
+#191,50,Female,Rural,104530,Technology,7,5,59,1787,Books,102,27,False,46-55,High,0.4156,1051.18,22,295,0,0
+#192,59,Male,Rural,43284,Technology,26,7,88,4209,Books,310,35,True,56+,Low,0.6653,814.65,3,616,0,1
+#193,61,Female,Suburban,81330,Fashion,17,7,88,1960,Health & Beauty,292,26,False,56+,Mid,0.5985,402.74,12,616,0,0
+#194,41,Male,Rural,103369,Sports,7,8,79,2061,Apparel,495,39,True,36-45,High,0.8376,249.82,22,632,0,1
+#195,32,Female,Rural,45122,Fashion,21,6,36,822,Apparel,361,49,False,26-35,Low,0.7438,136.62,8,216,1,0
+#196,49,Male,Urban,90553,Travel,1,1,24,879,Health & Beauty,338,18,True,46-55,Mid,0.3421,156.04,28,24,0,0
+#197,49,Female,Urban,101906,Fashion,17,7,59,628,Electronics,579,33,True,46-55,High,0.8105,65.08,12,413,0,1
+#198,41,Male,Suburban,114788,Food,17,6,45,4993,Books,10,25,False,36-45,High,0.388,29958.0,12,270,0,0
+#199,58,Male,Rural,82812,Fashion,11,7,17,443,Books,49,31,True,56+,Mid,0.4873,542.45,18,119,0,0
+#200,29,Female,Rural,27999,Food,25,2,88,3886,Electronics,487,37,True,26-35,Low,0.5871,478.77,4,176,0,0
+#201,56,Female,Urban,42436,Food,27,6,140,3782,Home & Kitchen,321,2,True,56+,Low,0.4266,706.92,2,840,1,0
+#202,19,Male,Rural,62963,Food,29,9,199,308,Home & Kitchen,569,33,True,18-25,Mid,0.8824,32.48,0,1791,1,1
+#203,20,Female,Urban,22096,Travel,3,8,56,4836,Apparel,133,39,True,18-25,Low,0.6254,2181.65,26,448,0,1
+#204,54,Male,Suburban,149940,Fashion,15,2,114,3506,Health & Beauty,583,43,False,46-55,High,0.6809,360.82,14,228,0,0
+#205,34,Male,Urban,133737,Fashion,29,9,107,1411,Apparel,83,43,True,26-35,High,0.66,1020.0,0,963,1,1
+#206,19,Male,Rural,45279,Travel,21,5,105,2399,Home & Kitchen,57,32,False,18-25,Low,0.4204,2525.26,8,525,0,0
+#207,19,Female,Suburban,141092,Sports,11,1,198,3436,Electronics,376,18,True,18-25,High,0.3644,548.3,18,198,0,0
+#208,45,Male,Urban,128899,Technology,26,1,169,2047,Apparel,349,17,True,36-45,High,0.3423,351.92,3,169,0,0
+#209,40,Male,Urban,134245,Fashion,28,4,125,1019,Books,271,34,False,36-45,High,0.5195,225.61,1,500,0,0
+#210,54,Female,Suburban,46201,Technology,16,4,22,2144,Books,483,39,False,46-55,Low,0.675,266.34,13,88,0,0
+#211,49,Female,Suburban,39715,Travel,25,6,10,518,Electronics,111,7,False,46-55,Low,0.3347,280.0,4,60,0,0
+#212,50,Female,Urban,49309,Sports,22,1,43,1849,Home & Kitchen,76,42,False,46-55,Low,0.3385,1459.74,7,43,0,0
+#213,18,Female,Rural,35078,Sports,28,6,199,2942,Books,158,35,False,18-25,Low,0.5373,1117.22,1,1194,0,0
+#214,36,Male,Urban,76614,Sports,9,4,88,1199,Books,532,30,True,36-45,Mid,0.6475,135.23,20,352,0,1
+#215,19,Male,Suburban,25105,Travel,24,5,87,3492,Health & Beauty,329,12,False,18-25,Low,0.4549,636.84,5,435,0,0
+#216,61,Male,Urban,137666,Food,24,7,130,2872,Apparel,122,35,False,56+,High,0.5551,1412.46,5,910,0,0
+#217,43,Male,Suburban,114848,Food,1,9,102,2580,Home & Kitchen,41,11,True,36-45,High,0.4354,3775.61,28,918,1,0
+#218,49,Female,Suburban,22839,Technology,29,3,107,1645,Apparel,167,44,True,46-55,Low,0.4822,591.02,0,321,0,0
+#219,23,Male,Rural,88920,Food,25,6,91,1170,Home & Kitchen,23,4,False,18-25,Mid,0.2644,3052.17,4,546,1,0
+#220,49,Male,Suburban,63619,Food,22,5,168,1950,Books,279,25,False,46-55,Mid,0.5068,419.35,7,840,0,0
+#221,21,Female,Suburban,62821,Sports,16,9,162,4298,Health & Beauty,469,48,False,18-25,Mid,0.9175,549.85,13,1458,1,0
+#222,28,Male,Rural,145736,Sports,9,1,47,3039,Apparel,400,32,True,26-35,High,0.466,455.85,20,47,0,0
+#223,34,Male,Suburban,33493,Technology,19,7,23,2003,Books,9,20,False,26-35,Low,0.3951,13353.33,10,161,0,0
+#224,55,Male,Rural,37069,Fashion,12,9,145,778,Home & Kitchen,13,31,True,46-55,Low,0.5439,3590.77,17,1305,0,0
+#225,41,Male,Rural,132443,Technology,19,8,100,1088,Apparel,52,4,True,36-45,High,0.3592,1255.38,10,800,0,0
+#226,22,Male,Suburban,27531,Technology,22,4,63,2575,Apparel,209,38,True,18-25,Low,0.5082,739.23,7,252,0,0
+#227,51,Male,Suburban,57051,Travel,9,9,139,1707,Books,550,47,True,46-55,Low,0.9588,186.22,20,1251,1,1
+#228,23,Female,Urban,27736,Travel,7,3,110,2969,Apparel,402,1,False,18-25,Low,0.3512,443.13,22,330,0,0
+#229,39,Female,Rural,27710,Technology,14,5,98,1602,Health & Beauty,191,3,True,36-45,Low,0.3177,503.25,15,490,0,0
+#230,28,Male,Urban,87155,Technology,29,7,65,1889,Health & Beauty,51,37,True,26-35,Mid,0.5259,2222.35,0,455,0,0
+#231,33,Male,Suburban,33975,Technology,19,2,103,1525,Books,393,22,False,26-35,Low,0.4383,232.82,10,206,0,0
+#232,50,Female,Urban,82424,Food,19,9,102,2540,Home & Kitchen,300,17,True,46-55,Mid,0.6247,508.0,10,918,1,1
+#233,26,Male,Rural,65603,Travel,2,0,93,2142,Books,196,14,False,26-35,Mid,0.195,655.71,27,0,1,0
+#234,23,Male,Urban,43252,Technology,9,3,94,1378,Health & Beauty,417,41,True,18-25,Low,0.61,198.27,20,282,0,0
+#235,33,Male,Rural,100797,Sports,13,3,198,2694,Electronics,420,35,False,26-35,Mid,0.5742,384.86,16,594,0,0
+#236,46,Female,Suburban,21431,Sports,15,0,31,4789,Electronics,522,13,True,46-55,Low,0.3799,550.46,14,0,0,0
+#237,20,Male,Suburban,94603,Food,3,8,44,2536,Apparel,356,35,True,18-25,Mid,0.7311,427.42,26,352,0,1
+#238,37,Female,Rural,57481,Food,11,2,25,3903,Apparel,148,43,False,36-45,Mid,0.4259,1582.3,18,50,0,0
+#239,53,Male,Suburban,112573,Fashion,21,4,59,2305,Electronics,365,2,True,46-55,High,0.3746,378.9,8,236,0,0
+#240,36,Female,Suburban,29557,Fashion,14,5,131,1127,Health & Beauty,364,47,True,36-45,Low,0.6942,185.77,15,655,0,1
+#241,43,Female,Suburban,94971,Fashion,25,7,137,3639,Apparel,402,13,False,36-45,Mid,0.5817,543.13,4,959,1,0
+#242,20,Male,Suburban,123302,Food,8,5,122,3583,Books,492,16,True,18-25,High,0.5755,436.95,21,610,0,0
+#243,36,Female,Rural,20162,Food,18,2,180,2341,Books,229,18,True,36-45,Low,0.3171,613.36,11,360,0,0
+#244,37,Male,Urban,54742,Food,19,5,26,2865,Health & Beauty,575,7,False,36-45,Low,0.5679,298.96,10,130,0,0
+#245,49,Female,Urban,39675,Sports,16,0,89,1273,Apparel,537,45,False,46-55,Low,0.5887,142.23,13,0,0,0
+#246,24,Male,Suburban,93997,Food,2,3,195,3330,Books,268,36,False,18-25,Mid,0.4914,745.52,27,585,0,0
+#247,58,Male,Urban,37015,Sports,8,5,139,3450,Apparel,405,41,False,56+,Low,0.6807,511.11,21,695,0,0
+#248,50,Female,Urban,70057,Fashion,22,6,141,503,Apparel,11,30,False,46-55,Mid,0.4199,2743.64,7,846,1,0
+#249,57,Male,Suburban,52591,Fashion,6,9,94,2825,Books,320,42,True,56+,Low,0.7927,529.69,23,846,0,1
+#250,56,Male,Suburban,113583,Fashion,12,2,176,3482,Electronics,126,41,False,56+,High,0.4005,1658.1,17,352,0,0
+#251,35,Female,Urban,146133,Technology,15,8,103,4263,Books,306,7,True,26-35,High,0.5268,835.88,14,824,0,0
+#252,57,Male,Rural,120318,Technology,25,6,143,187,Health & Beauty,511,15,False,56+,High,0.6192,21.96,4,858,0,0
+#253,18,Male,Suburban,29833,Travel,8,0,90,1258,Home & Kitchen,89,40,True,18-25,Low,0.2948,848.09,21,0,0,0
+#254,28,Female,Rural,27896,Travel,4,1,78,4373,Books,355,19,True,26-35,Low,0.3583,739.1,25,78,1,0
+#255,45,Female,Urban,52972,Travel,15,0,78,2957,Apparel,352,43,False,36-45,Low,0.4677,504.03,14,0,0,0
+#256,42,Male,Suburban,69733,Technology,28,8,157,1481,Apparel,14,37,True,36-45,Mid,0.5431,6347.14,1,1256,0,0
+#257,40,Male,Rural,140363,Technology,20,8,25,4781,Books,257,2,True,36-45,High,0.4669,1116.19,9,200,0,0
+#258,48,Female,Suburban,61800,Travel,25,6,60,2164,Home & Kitchen,209,42,False,46-55,Mid,0.6109,621.24,4,360,0,0
+#259,47,Female,Urban,116044,Travel,17,9,114,2474,Books,281,48,False,46-55,High,0.8073,528.26,12,1026,1,0
+#260,59,Male,Rural,25347,Food,13,2,174,417,Home & Kitchen,443,13,False,56+,Low,0.4113,56.48,16,348,1,0
+#261,52,Female,Urban,79063,Travel,18,4,179,1602,Home & Kitchen,389,40,False,46-55,Mid,0.6262,247.1,11,716,0,0
+#262,24,Male,Urban,115850,Food,2,3,194,2142,Health & Beauty,483,41,True,18-25,High,0.6487,266.09,27,582,0,1
+#263,33,Male,Suburban,22643,Sports,13,6,75,4698,Apparel,147,43,True,26-35,Low,0.5808,1917.55,16,450,0,0
+#264,43,Male,Rural,60785,Technology,13,8,18,2122,Apparel,279,43,True,36-45,Mid,0.736,456.34,16,144,0,1
+#265,19,Male,Urban,38681,Travel,22,1,116,218,Home & Kitchen,521,31,True,18-25,Low,0.5307,25.11,7,116,0,0
+#266,18,Male,Urban,70026,Technology,15,7,109,809,Apparel,434,16,True,18-25,Mid,0.6192,111.84,14,763,0,0
+#267,29,Female,Rural,123864,Technology,20,8,95,3657,Electronics,144,42,True,26-35,High,0.6506,1523.75,9,760,1,1
+#268,22,Female,Urban,35892,Technology,29,9,73,4240,Home & Kitchen,289,44,False,18-25,Low,0.787,880.28,0,657,0,0
+#269,54,Female,Urban,67299,Sports,27,9,31,4509,Apparel,386,6,True,46-55,Mid,0.6064,700.88,2,279,0,0
+#270,49,Female,Rural,37073,Fashion,10,8,171,3350,Electronics,14,28,True,46-55,Low,0.4869,14357.14,19,1368,0,0
+#271,26,Male,Rural,122304,Travel,29,9,192,517,Health & Beauty,257,32,True,26-35,High,0.6932,120.7,0,1728,0,1
+#272,58,Male,Rural,50682,Fashion,3,6,166,2703,Apparel,346,44,False,56+,Low,0.7038,468.73,26,996,1,0
+#273,52,Male,Rural,117798,Fashion,19,8,175,3954,Electronics,345,10,False,46-55,High,0.5684,687.65,10,1400,0,0
+#274,36,Male,Suburban,146021,Fashion,3,8,119,1201,Books,400,18,False,36-45,High,0.6507,180.15,26,952,0,0
+#275,33,Female,Rural,116894,Technology,22,2,106,4521,Books,207,4,False,26-35,High,0.2167,1310.43,7,212,0,0
+#276,20,Male,Suburban,144302,Food,14,3,27,3528,Electronics,172,9,True,18-25,High,0.2663,1230.7,15,81,0,0
+#277,37,Male,Suburban,34289,Technology,8,1,80,2361,Home & Kitchen,464,7,True,36-45,Low,0.3472,305.3,21,80,0,0
+#278,41,Female,Suburban,135359,Technology,27,9,136,4269,Home & Kitchen,270,8,True,36-45,High,0.5509,948.67,2,1224,0,0
+#279,50,Female,Urban,27927,Fashion,23,2,106,3734,Apparel,221,43,False,46-55,Low,0.4687,1013.76,6,212,1,0
+#280,41,Female,Suburban,68330,Technology,4,4,10,608,Books,152,7,True,36-45,Mid,0.281,240.0,25,40,0,0
+#281,28,Female,Suburban,86707,Fashion,27,4,141,2479,Home & Kitchen,183,41,True,26-35,Mid,0.5117,812.79,2,564,0,0
+#282,25,Male,Urban,140279,Food,28,5,13,3264,Home & Kitchen,399,40,True,18-25,High,0.6709,490.83,1,65,1,1
+#283,53,Male,Urban,97454,Travel,20,6,134,787,Books,72,3,False,46-55,Mid,0.2869,655.83,9,804,1,0
+#284,55,Female,Urban,127439,Fashion,11,6,91,4852,Health & Beauty,418,17,False,46-55,High,0.5772,696.46,18,546,0,0
+#285,57,Male,Rural,124646,Food,26,0,36,1392,Home & Kitchen,283,2,False,56+,High,0.171,295.12,3,0,1,0
+#286,37,Male,Urban,85428,Travel,11,1,180,4005,Electronics,74,15,True,36-45,Mid,0.1686,3247.3,18,180,0,0
+#287,52,Male,Urban,70601,Sports,27,8,68,3175,Apparel,355,46,True,46-55,Mid,0.7993,536.62,2,544,0,1
+#288,42,Female,Suburban,97465,Fashion,11,9,41,3309,Home & Kitchen,497,29,True,36-45,Mid,0.8152,399.48,18,369,0,1
+#289,52,Male,Urban,22539,Fashion,2,1,170,424,Home & Kitchen,328,48,True,46-55,Low,0.5238,77.56,27,170,0,0
+#290,42,Female,Rural,122263,Sports,17,5,37,2093,Health & Beauty,535,22,False,36-45,High,0.6382,234.73,12,185,1,0
+#291,46,Male,Urban,131487,Sports,9,0,115,4076,Electronics,580,4,True,46-55,High,0.3576,421.66,20,0,0,0
+#292,35,Male,Rural,42669,Fashion,28,2,114,4912,Apparel,447,6,False,26-35,Low,0.3699,659.33,1,228,1,0
+#293,63,Male,Urban,90968,Sports,28,1,192,2870,Home & Kitchen,373,38,True,56+,Mid,0.4876,461.66,1,192,0,0
+#294,35,Female,Urban,40644,Technology,2,2,197,4472,Apparel,362,26,False,26-35,Low,0.4451,741.22,27,394,0,0
+#295,19,Male,Urban,38745,Travel,29,4,79,2683,Books,93,11,True,18-25,Low,0.2714,1730.97,0,316,1,0
+#296,52,Female,Urban,140852,Travel,24,9,71,3657,Home & Kitchen,321,26,True,46-55,High,0.6933,683.55,5,639,0,1
+#297,33,Female,Rural,148081,Travel,15,5,43,3687,Home & Kitchen,324,17,False,26-35,High,0.4832,682.78,14,215,0,0
+#298,58,Female,Rural,48228,Technology,16,8,96,251,Books,384,24,False,56+,Low,0.6788,39.22,13,768,0,0
+#299,53,Male,Suburban,138358,Sports,25,9,123,1054,Health & Beauty,575,28,True,46-55,High,0.8547,109.98,4,1107,1,1
+#300,50,Male,Rural,54521,Food,4,3,115,4454,Home & Kitchen,346,35,True,46-55,Low,0.5308,772.37,25,345,1,0
+#301,21,Male,Urban,142788,Sports,8,6,65,2471,Apparel,103,31,True,18-25,High,0.48,1439.42,21,390,0,0
+#302,50,Male,Suburban,117239,Fashion,9,5,122,1291,Electronics,215,13,False,46-55,High,0.3943,360.28,20,610,0,0
+#303,31,Female,Suburban,46928,Travel,26,1,22,787,Apparel,192,35,True,26-35,Low,0.3628,245.94,3,22,0,0
+#304,38,Female,Suburban,38322,Sports,26,9,193,409,Health & Beauty,194,16,False,36-45,Low,0.5563,126.49,3,1737,1,0
+#305,37,Female,Urban,77714,Food,5,7,27,1602,Electronics,380,15,True,36-45,Mid,0.5813,252.95,24,189,0,0
+#306,25,Male,Rural,107896,Fashion,16,6,191,3227,Apparel,403,43,True,18-25,High,0.7309,480.45,13,1146,1,1
+#307,24,Female,Urban,82292,Technology,13,6,122,4668,Apparel,11,18,True,18-25,Mid,0.3449,25461.82,16,732,0,0
+#308,20,Male,Suburban,49055,Technology,7,7,180,3467,Books,187,47,True,18-25,Low,0.6682,1112.41,22,1260,0,1
+#309,34,Female,Urban,62891,Food,26,0,48,3495,Health & Beauty,15,37,False,26-35,Mid,0.2326,13980.0,3,0,0,0
+#310,50,Male,Urban,101912,Fashion,20,0,198,913,Books,297,48,False,46-55,High,0.4667,184.44,9,0,0,0
+#311,29,Male,Rural,26588,Travel,17,7,179,945,Electronics,411,48,True,26-35,Low,0.8058,137.96,12,1253,0,1
+#312,39,Female,Rural,110536,Sports,3,3,88,1264,Books,585,49,True,36-45,High,0.7585,129.64,26,264,0,1
+#313,39,Female,Suburban,26304,Fashion,5,4,155,4862,Health & Beauty,52,41,True,36-45,Low,0.4349,5610.0,24,620,0,0
+#314,63,Female,Urban,27345,Technology,19,7,160,1867,Home & Kitchen,28,27,False,56+,Low,0.45,4000.71,10,1120,0,0
+#315,47,Female,Urban,49300,Food,12,4,191,454,Home & Kitchen,577,35,True,46-55,Low,0.7052,47.21,17,764,1,1
+#316,55,Male,Rural,44259,Food,29,9,39,1972,Electronics,17,45,False,46-55,Low,0.6338,6960.0,0,351,0,0
+#317,55,Female,Urban,111006,Sports,27,3,107,2124,Home & Kitchen,351,35,False,46-55,High,0.5338,363.08,2,321,0,0
+#318,62,Female,Urban,108553,Food,7,5,67,2917,Books,428,28,False,56+,High,0.6129,408.93,22,335,0,0
+#319,25,Female,Urban,35352,Food,28,4,76,3932,Electronics,229,39,False,18-25,Low,0.5261,1030.22,1,304,0,0
+#320,44,Male,Rural,149350,Fashion,9,6,80,4375,Health & Beauty,210,38,True,36-45,High,0.5865,1250.0,20,480,0,0
+#321,44,Male,Suburban,53365,Travel,28,9,155,165,Electronics,431,9,True,36-45,Low,0.6515,22.97,1,1395,0,1
+#322,51,Female,Suburban,39446,Sports,6,6,115,4366,Electronics,294,12,False,46-55,Low,0.4733,891.02,23,690,0,0
+#323,38,Male,Urban,22336,Fashion,29,3,16,4190,Apparel,582,15,True,36-45,Low,0.5442,431.96,0,48,1,0
+#324,47,Female,Suburban,82032,Travel,26,4,49,2621,Apparel,104,21,True,46-55,Mid,0.3404,1512.12,3,196,0,0
+#325,50,Male,Rural,95415,Fashion,17,2,79,2681,Electronics,204,35,True,46-55,Mid,0.4087,788.53,12,158,0,0
+#326,45,Male,Rural,117852,Fashion,16,3,77,1490,Home & Kitchen,53,42,False,36-45,High,0.4028,1686.79,13,231,0,0
+#327,64,Male,Suburban,118876,Food,23,3,58,1230,Apparel,375,33,True,56+,High,0.5353,196.8,6,174,0,0
+#328,50,Male,Suburban,27521,Travel,3,2,61,2586,Health & Beauty,54,19,True,46-55,Low,0.2208,2873.33,26,122,0,0
+#329,22,Female,Urban,91707,Sports,21,9,123,934,Books,276,23,True,18-25,Mid,0.6481,203.04,8,1107,0,1
+#330,36,Female,Suburban,43481,Sports,26,4,116,326,Apparel,335,13,True,36-45,Low,0.4258,58.39,3,464,0,0
+#331,21,Female,Urban,38474,Travel,4,4,38,3615,Electronics,31,44,True,18-25,Low,0.4413,6996.77,25,152,0,0
+#332,52,Male,Urban,66760,Food,10,6,158,4637,Home & Kitchen,135,1,True,46-55,Mid,0.3113,2060.89,19,948,1,0
+#333,34,Female,Rural,75718,Technology,5,3,87,2543,Books,58,29,True,26-35,Mid,0.3245,2630.69,24,261,0,0
+#334,61,Female,Rural,64629,Fashion,21,3,18,827,Apparel,105,24,True,56+,Mid,0.3208,472.57,8,54,1,0
+#335,45,Female,Rural,65232,Food,22,8,184,3786,Home & Kitchen,266,16,True,36-45,Mid,0.5596,853.98,7,1472,1,0
+#336,47,Male,Rural,106544,Travel,10,5,85,3722,Home & Kitchen,522,25,True,46-55,High,0.6493,427.82,19,425,0,1
+#337,46,Male,Suburban,87169,Fashion,12,3,51,1136,Home & Kitchen,496,23,False,46-55,Mid,0.5438,137.42,17,153,0,0
+#338,63,Male,Rural,147941,Sports,10,1,188,1932,Electronics,253,28,True,56+,High,0.3548,458.18,19,188,0,0
+#339,23,Female,Suburban,70669,Technology,29,5,193,2840,Health & Beauty,295,47,False,18-25,Mid,0.6537,577.63,0,965,0,0
+#340,52,Female,Rural,98021,Sports,13,1,188,592,Home & Kitchen,158,16,True,46-55,Mid,0.2241,224.81,16,188,0,0
+#341,58,Female,Suburban,129153,Travel,11,4,137,1648,Books,549,43,False,56+,High,0.7387,180.11,18,548,1,0
+#342,54,Male,Urban,89184,Fashion,22,5,29,1243,Apparel,67,38,False,46-55,Mid,0.4638,1113.13,7,145,1,0
+#343,41,Male,Suburban,67945,Travel,16,3,164,4057,Books,299,11,True,36-45,Mid,0.3533,814.11,13,492,1,0
+#344,46,Female,Suburban,33140,Fashion,8,2,175,3507,Electronics,463,3,False,46-55,Low,0.3605,454.47,21,350,0,0
+#345,63,Male,Rural,146468,Food,8,6,81,739,Electronics,101,15,False,56+,High,0.3789,439.01,21,486,0,0
+#346,48,Male,Suburban,103457,Technology,27,1,74,272,Books,56,1,False,46-55,High,0.0705,291.43,2,74,0,0
+#347,52,Male,Urban,34357,Food,25,5,191,4454,Health & Beauty,332,7,True,46-55,Low,0.4254,804.94,4,955,0,0
+#348,50,Male,Urban,131672,Food,8,3,122,4059,Electronics,393,1,False,46-55,High,0.3459,619.69,21,366,0,0
+#349,38,Female,Rural,88673,Travel,13,5,33,616,Electronics,381,49,False,36-45,Mid,0.7166,97.01,16,165,0,0
+#350,49,Male,Urban,141673,Technology,27,3,137,622,Books,92,32,True,46-55,High,0.3632,405.65,2,411,0,0
+#351,40,Male,Suburban,85633,Fashion,2,3,184,2017,Electronics,447,9,False,36-45,Mid,0.4276,270.74,27,552,0,0
+#352,50,Male,Urban,96943,Fashion,12,3,92,2986,Health & Beauty,109,29,False,46-55,Mid,0.3544,1643.67,17,276,0,0
+#353,20,Male,Rural,116111,Sports,10,8,72,2264,Health & Beauty,317,26,False,18-25,High,0.652,428.52,19,576,1,0
+#354,35,Female,Suburban,98258,Fashion,12,6,194,2029,Health & Beauty,168,23,True,26-35,Mid,0.4682,724.64,17,1164,0,0
+#355,42,Female,Rural,32924,Travel,11,2,192,4045,Apparel,435,45,False,36-45,Low,0.6066,557.93,18,384,0,0
+#356,59,Male,Suburban,89286,Food,15,2,69,2309,Health & Beauty,442,43,True,56+,Mid,0.5982,313.44,14,138,0,0
+#357,48,Male,Urban,113269,Food,16,5,108,3883,Health & Beauty,218,29,False,46-55,High,0.4961,1068.72,13,540,0,0
+#358,20,Male,Rural,147563,Food,17,5,71,2690,Apparel,222,38,False,18-25,High,0.5547,727.03,12,355,0,0
+#359,57,Male,Rural,94071,Technology,26,3,39,4176,Home & Kitchen,528,33,False,56+,Mid,0.625,474.55,3,117,0,0
+#360,63,Male,Suburban,77326,Fashion,2,8,31,1193,Electronics,278,7,False,56+,Mid,0.5104,257.48,27,248,0,0
+#361,41,Male,Rural,110023,Travel,18,3,135,3980,Health & Beauty,569,12,True,36-45,High,0.5178,419.68,11,405,0,0
+#362,49,Female,Suburban,140101,Technology,12,8,166,2594,Electronics,574,31,False,46-55,High,0.834,271.15,17,1328,1,0
+#363,64,Male,Suburban,50651,Sports,19,3,178,2679,Books,466,32,True,56+,Low,0.5824,344.94,10,534,0,0
+#364,39,Female,Suburban,90202,Travel,26,1,51,2588,Electronics,584,20,False,36-45,Mid,0.4988,265.89,3,51,0,0
+#365,40,Female,Suburban,68777,Travel,23,1,107,2885,Apparel,30,17,True,36-45,Mid,0.1553,5770.0,6,107,0,0
+#366,19,Male,Urban,36994,Travel,18,4,40,2858,Electronics,359,36,False,18-25,Low,0.5836,477.66,11,160,0,0
+#367,44,Female,Suburban,87263,Food,17,3,167,1674,Electronics,288,3,False,36-45,Mid,0.2968,348.75,12,501,0,0
+#368,59,Female,Rural,79634,Travel,6,6,121,2473,Electronics,86,1,True,56+,Mid,0.2826,1725.35,23,726,0,0
+#369,19,Female,Urban,120158,Fashion,25,4,155,4090,Home & Kitchen,234,27,True,18-25,High,0.4541,1048.72,4,620,0,0
+#370,43,Female,Rural,30800,Travel,15,5,131,4945,Home & Kitchen,313,47,True,36-45,Low,0.6643,947.92,14,655,0,1
+#371,34,Female,Urban,57823,Food,3,9,26,1193,Books,365,40,True,26-35,Mid,0.8066,196.11,26,234,0,1
+#372,57,Female,Suburban,128575,Travel,6,3,47,1289,Apparel,269,33,False,56+,High,0.4732,287.51,23,141,0,0
+#373,50,Male,Urban,83878,Sports,3,1,151,2789,Electronics,131,20,True,46-55,Mid,0.2333,1277.4,26,151,0,0
+#374,26,Female,Urban,38708,Sports,29,9,119,4195,Electronics,351,14,True,26-35,Low,0.6359,717.09,0,1071,0,1
+#375,60,Female,Rural,32819,Food,1,8,193,1975,Electronics,180,36,True,56+,Low,0.6342,658.33,28,1544,0,1
+#376,56,Female,Rural,94905,Fashion,13,9,31,3506,Electronics,480,5,False,56+,Mid,0.6552,438.25,16,279,0,0
+#377,46,Male,Suburban,83870,Fashion,28,6,65,1887,Home & Kitchen,163,23,False,46-55,Mid,0.4652,694.6,1,390,0,0
+#378,59,Female,Urban,29283,Technology,21,3,128,4032,Books,96,45,False,56+,Low,0.4468,2520.0,8,384,0,0
+#379,43,Male,Urban,50573,Food,26,2,156,1707,Health & Beauty,510,15,False,36-45,Low,0.4631,200.82,3,312,0,0
+#380,52,Female,Urban,98707,Travel,14,9,66,3848,Apparel,365,6,True,46-55,Mid,0.5941,632.55,15,594,0,0
+#381,42,Male,Suburban,50933,Food,13,2,181,148,Electronics,353,33,False,36-45,Low,0.4836,25.16,16,362,0,0
+#382,41,Male,Suburban,25774,Technology,27,8,44,3961,Books,436,19,True,36-45,Low,0.678,545.09,2,352,0,1
+#383,30,Female,Suburban,92055,Food,4,4,123,2280,Health & Beauty,83,13,False,26-35,Mid,0.278,1648.19,25,492,0,0
+#384,24,Female,Suburban,30983,Food,7,2,134,3146,Books,225,29,True,18-25,Low,0.3835,838.93,22,268,0,0
+#385,53,Male,Suburban,116468,Technology,22,4,138,2933,Home & Kitchen,412,6,True,46-55,High,0.4272,427.14,7,552,0,0
+#386,62,Female,Rural,116334,Fashion,10,1,61,1497,Health & Beauty,118,15,True,56+,High,0.1944,761.19,19,61,0,0
+#387,37,Male,Urban,38133,Travel,7,3,94,3926,Books,482,16,True,36-45,Low,0.4918,488.71,22,282,1,0
+#388,18,Male,Urban,145555,Technology,21,9,174,4674,Home & Kitchen,192,24,True,18-25,High,0.6051,1460.62,8,1566,0,0
+#389,25,Male,Urban,34939,Sports,15,1,74,931,Books,591,23,False,18-25,Low,0.5217,94.52,14,74,0,0
+#390,63,Male,Urban,20781,Fashion,15,1,188,2797,Books,590,48,True,56+,Low,0.6774,284.44,14,188,0,1
+#391,33,Male,Urban,134586,Sports,4,7,138,4877,Health & Beauty,107,10,True,26-35,High,0.39,2734.77,25,966,1,0
+#392,31,Female,Urban,76700,Fashion,23,0,30,2835,Home & Kitchen,382,41,True,26-35,Mid,0.4728,445.29,6,0,0,0
+#393,29,Male,Urban,47624,Travel,23,6,190,181,Electronics,390,41,True,26-35,Low,0.7108,27.85,6,1140,0,1
+#394,40,Male,Urban,26823,Travel,6,4,25,186,Apparel,244,49,False,36-45,Low,0.5974,45.74,23,100,0,0
+#395,32,Female,Rural,38489,Food,24,7,132,2163,Health & Beauty,585,17,False,26-35,Low,0.714,221.85,5,924,0,0
+#396,45,Male,Urban,138555,Sports,20,0,70,921,Home & Kitchen,468,49,True,36-45,High,0.5732,118.08,9,0,0,0
+#397,51,Female,Rural,59961,Fashion,26,6,63,262,Books,538,44,True,46-55,Mid,0.8163,29.22,3,378,0,1
+#398,19,Female,Suburban,139664,Travel,5,4,177,3839,Home & Kitchen,210,45,True,18-25,High,0.5525,1096.86,24,708,0,0
+#399,49,Female,Urban,49118,Technology,20,3,35,2497,Apparel,73,30,True,46-55,Low,0.3395,2052.33,9,105,0,0
+#400,40,Male,Suburban,120417,Travel,12,6,89,2032,Apparel,309,44,False,36-45,High,0.6821,394.56,17,534,0,0
+#401,39,Male,Suburban,101816,Technology,1,9,74,2828,Electronics,590,46,False,36-45,High,0.976,287.59,28,666,1,0
+#402,42,Male,Suburban,42263,Fashion,28,1,109,3635,Electronics,186,10,True,36-45,Low,0.203,1172.58,1,109,0,0
+#403,39,Female,Rural,33565,Travel,8,0,83,3546,Apparel,253,19,True,36-45,Low,0.2597,840.95,21,0,0,0
+#404,39,Male,Suburban,40354,Travel,1,0,180,2890,Health & Beauty,13,29,True,36-45,Low,0.1814,13338.46,28,0,0,0
+#405,59,Female,Suburban,62951,Fashion,5,0,26,2807,Health & Beauty,299,2,True,56+,Mid,0.1804,563.28,24,0,0,0
+#406,23,Male,Suburban,111179,Travel,22,4,130,4033,Books,76,36,True,18-25,High,0.4177,3183.95,7,520,1,0
+#407,32,Female,Urban,43648,Technology,6,9,196,3485,Electronics,51,19,False,26-35,Low,0.4912,4100.0,23,1764,1,0
+#408,60,Male,Urban,70729,Travel,29,6,32,1022,Books,149,7,False,56+,Mid,0.357,411.54,0,192,1,0
+#409,54,Male,Rural,61971,Sports,21,1,144,2275,Electronics,122,26,True,46-55,Mid,0.2655,1118.85,8,144,0,0
+#410,50,Male,Rural,38658,Food,3,9,181,1682,Apparel,211,15,False,46-55,Low,0.56,478.29,26,1629,0,0
+#411,25,Female,Urban,41253,Technology,15,7,190,664,Health & Beauty,280,47,False,18-25,Low,0.7227,142.29,14,1330,0,0
+#412,61,Female,Rural,84166,Sports,5,3,80,3358,Health & Beauty,538,38,False,56+,Mid,0.6622,374.5,24,240,1,0
+#413,61,Male,Urban,68563,Fashion,28,2,117,2697,Apparel,156,3,True,56+,Mid,0.1806,1037.31,1,234,1,0
+#414,22,Male,Suburban,46390,Technology,24,9,88,2600,Books,238,38,False,18-25,Low,0.7196,655.46,5,792,0,0
+#415,56,Female,Suburban,108664,Food,14,7,171,4666,Books,376,16,False,56+,High,0.5852,744.57,15,1197,0,0
+#416,21,Female,Rural,71578,Food,18,1,55,1087,Home & Kitchen,82,2,True,18-25,Mid,0.092,795.37,11,55,1,0
+#417,23,Female,Urban,99025,Fashion,16,2,87,3736,Electronics,492,31,False,18-25,Mid,0.5525,455.61,13,174,0,0
+#418,62,Male,Urban,123850,Fashion,6,2,25,323,Books,356,28,True,56+,High,0.4541,54.44,23,50,0,0
+#419,49,Female,Rural,52658,Technology,25,9,80,450,Apparel,273,7,False,46-55,Low,0.5464,98.9,4,720,0,0
+#420,47,Male,Urban,26852,Travel,24,0,105,2028,Books,580,30,True,46-55,Low,0.5201,209.79,5,0,1,0
+#421,64,Female,Suburban,147282,Fashion,14,5,156,448,Health & Beauty,44,43,True,56+,High,0.4816,610.91,15,780,0,0
+#422,52,Male,Rural,114986,Travel,27,1,11,4377,Electronics,573,7,False,46-55,High,0.4111,458.32,2,11,0,0
+#423,57,Female,Rural,22551,Sports,24,0,19,4832,Home & Kitchen,123,36,False,56+,Low,0.2897,2357.07,5,0,0,0
+#424,33,Female,Urban,91947,Food,8,1,187,1117,Electronics,349,29,True,26-35,Mid,0.4173,192.03,21,187,0,0
+#425,30,Female,Rural,81001,Travel,29,5,134,2326,Health & Beauty,330,24,True,26-35,Mid,0.5305,422.91,0,670,0,0
+#426,59,Female,Urban,69159,Food,7,3,90,4967,Health & Beauty,409,39,False,56+,Mid,0.5928,728.66,22,270,0,0
+#427,47,Female,Urban,142775,Travel,8,5,149,4224,Health & Beauty,323,4,False,46-55,High,0.4014,784.64,21,745,0,0
+#428,36,Male,Urban,71707,Sports,13,8,79,2519,Health & Beauty,111,29,False,36-45,Mid,0.55,1361.62,16,632,1,0
+#429,34,Female,Urban,53243,Fashion,6,9,159,1993,Apparel,89,44,False,26-35,Low,0.6698,1343.6,23,1431,1,0
+#430,36,Female,Urban,41800,Sports,18,9,41,3140,Home & Kitchen,433,5,True,36-45,Low,0.6277,435.1,11,369,0,1
+#431,45,Female,Rural,95939,Fashion,2,7,114,2168,Health & Beauty,99,29,True,36-45,Mid,0.5041,1313.94,27,798,0,0
+#432,43,Male,Suburban,77828,Fashion,8,0,93,1225,Health & Beauty,539,30,True,36-45,Mid,0.4961,136.36,21,0,0,0
+#433,54,Female,Suburban,27239,Food,11,7,138,3217,Books,146,29,False,46-55,Low,0.5316,1322.05,18,966,0,0
+#434,43,Male,Rural,26710,Sports,1,8,191,4261,Home & Kitchen,257,26,False,36-45,Low,0.6169,994.79,28,1528,0,0
+#435,40,Female,Rural,41384,Travel,22,5,67,4142,Electronics,189,19,True,36-45,Low,0.4166,1314.92,7,335,0,0
+#436,26,Female,Suburban,41038,Sports,29,9,155,4533,Home & Kitchen,240,26,True,26-35,Low,0.6458,1133.25,0,1395,0,1
+#437,29,Male,Suburban,60846,Food,6,4,143,2270,Home & Kitchen,503,37,True,26-35,Mid,0.6743,270.78,23,572,1,1
+#438,18,Female,Suburban,107983,Fashion,16,5,54,546,Home & Kitchen,271,27,True,18-25,High,0.5146,120.89,13,270,0,0
+#439,18,Male,Suburban,87821,Food,27,5,106,2758,Health & Beauty,520,30,True,18-25,Mid,0.6794,318.23,2,530,0,1
+#440,64,Male,Suburban,57991,Technology,20,8,32,3462,Health & Beauty,550,30,True,56+,Mid,0.8136,377.67,9,256,0,1
+#441,51,Female,Urban,99057,Technology,12,3,32,2818,Apparel,114,3,False,46-55,Mid,0.1948,1483.16,17,96,0,0
+#442,49,Male,Rural,133193,Travel,11,1,163,3583,Electronics,339,43,True,46-55,High,0.499,634.16,18,163,0,0
+#443,42,Female,Urban,26971,Food,29,8,144,3044,Books,568,7,True,36-45,Low,0.6804,321.55,0,1152,0,1
+#444,57,Female,Suburban,49139,Travel,27,1,88,4476,Home & Kitchen,359,49,True,56+,Low,0.5482,748.08,2,88,0,0
+#445,62,Male,Suburban,105445,Travel,29,9,53,695,Electronics,334,9,True,56+,High,0.5946,124.85,0,477,0,0
+#446,18,Male,Suburban,97067,Technology,10,8,36,2086,Electronics,169,41,True,18-25,Mid,0.659,740.59,19,288,1,1
+#447,33,Male,Urban,100257,Travel,3,1,35,2850,Apparel,339,42,True,26-35,Mid,0.4927,504.42,26,35,0,0
+#448,56,Male,Urban,104742,Technology,13,7,106,1174,Books,261,13,True,56+,High,0.4991,269.89,16,742,0,0
+#449,22,Female,Suburban,57711,Fashion,27,8,45,4069,Home & Kitchen,199,15,False,18-25,Mid,0.5141,1226.83,2,360,0,0
+#450,39,Female,Urban,26530,Food,3,9,118,4405,Books,211,5,True,36-45,Low,0.4975,1252.61,26,1062,0,0
+#451,46,Male,Urban,31116,Travel,15,8,64,4321,Apparel,287,29,False,46-55,Low,0.6532,903.34,14,512,0,0
+#452,20,Female,Suburban,85794,Technology,16,9,194,4687,Health & Beauty,472,35,False,18-25,Mid,0.838,595.81,13,1746,0,0
+#453,29,Female,Urban,20282,Sports,29,8,78,3680,Electronics,482,27,False,26-35,Low,0.755,458.09,0,624,0,0
+#454,43,Female,Rural,99473,Travel,13,1,70,3107,Home & Kitchen,23,27,True,36-45,Mid,0.2137,8105.22,16,70,0,0
+#455,33,Female,Rural,21898,Fashion,17,3,139,1069,Health & Beauty,560,8,True,26-35,Low,0.4876,114.54,12,417,0,0
+#456,54,Male,Rural,24135,Fashion,3,6,64,680,Apparel,109,32,True,46-55,Low,0.4898,374.31,26,384,1,0
+#457,39,Male,Rural,26629,Sports,20,1,131,2924,Books,296,20,True,36-45,Low,0.33,592.7,9,131,0,0
+#458,46,Female,Suburban,129472,Technology,11,0,106,4101,Electronics,6,10,True,46-55,High,0.0586,41010.0,18,0,1,0
+#459,31,Male,Suburban,145147,Travel,27,2,89,1311,Home & Kitchen,550,13,True,26-35,High,0.4741,143.02,2,178,0,0
+#460,45,Male,Suburban,105120,Technology,21,3,96,329,Health & Beauty,203,29,True,36-45,High,0.4095,97.24,8,288,0,0
+#461,22,Male,Rural,139798,Fashion,19,7,47,4384,Health & Beauty,325,35,True,18-25,High,0.6741,809.35,10,329,0,1
+#462,64,Female,Rural,109087,Technology,22,5,128,3285,Electronics,244,8,True,56+,High,0.3801,807.79,7,640,1,0
+#463,47,Female,Urban,85031,Fashion,11,1,87,601,Books,327,29,True,46-55,Mid,0.4044,110.28,18,87,0,0
+#464,63,Female,Urban,53380,Technology,28,8,166,2232,Apparel,47,31,False,56+,Low,0.525,2849.36,1,1328,0,0
+#465,22,Male,Rural,149951,Sports,16,1,163,148,Books,591,41,True,18-25,High,0.6342,15.03,13,163,0,1
+#466,29,Female,Rural,132507,Food,21,4,44,3666,Books,13,30,True,26-35,High,0.3433,16920.0,8,176,0,0
+#467,33,Female,Rural,37071,Sports,3,3,88,3155,Books,380,22,True,26-35,Low,0.4695,498.16,26,264,0,0
+#468,43,Male,Rural,40074,Sports,22,6,76,788,Electronics,365,21,False,36-45,Low,0.5711,129.53,7,456,0,0
+#469,43,Female,Urban,110724,Food,6,7,96,486,Electronics,342,12,True,36-45,High,0.5403,85.26,23,672,0,0
+#470,38,Female,Rural,87843,Food,14,4,166,1069,Apparel,221,11,True,36-45,Mid,0.3464,290.23,15,664,0,0
+#471,56,Male,Urban,59901,Travel,24,9,43,3560,Books,73,2,False,56+,Mid,0.3979,2926.03,5,387,1,0
+#472,53,Male,Rural,31205,Travel,18,4,106,1105,Electronics,46,41,True,46-55,Low,0.4314,1441.3,11,424,0,0
+#473,50,Male,Rural,75661,Sports,17,1,178,3152,Apparel,504,2,False,46-55,Mid,0.3394,375.24,12,178,0,0
+#474,47,Female,Rural,144661,Sports,4,7,178,3517,Apparel,274,34,False,46-55,High,0.6379,770.15,25,1246,0,0
+#475,54,Female,Urban,25906,Fashion,23,1,160,2402,Books,555,3,False,46-55,Low,0.3756,259.68,6,160,0,0
+#476,40,Female,Urban,22591,Fashion,15,9,80,2383,Home & Kitchen,208,16,False,36-45,Low,0.5645,687.4,14,720,0,0
+#477,27,Male,Suburban,145576,Travel,11,5,12,1707,Books,124,4,True,26-35,High,0.2847,825.97,18,60,1,0
+#478,22,Male,Rural,82987,Travel,26,7,67,4466,Home & Kitchen,10,23,False,18-25,Mid,0.4144,26796.0,3,469,0,0
+#479,53,Female,Suburban,83370,Fashion,3,5,41,222,Apparel,329,20,False,46-55,Mid,0.5049,40.49,26,205,1,0
+#480,51,Female,Suburban,100685,Fashion,3,3,40,1380,Electronics,187,25,True,46-55,Mid,0.3751,442.78,26,120,0,0
+#481,48,Male,Urban,130454,Technology,16,3,91,3827,Health & Beauty,543,30,True,46-55,High,0.6151,422.87,13,273,0,0
+#482,27,Male,Urban,125487,Technology,5,5,52,358,Apparel,60,18,True,26-35,High,0.3347,358.0,24,260,0,0
+#483,36,Male,Suburban,74400,Fashion,21,3,144,1047,Electronics,442,42,False,36-45,Mid,0.6309,142.13,8,432,0,0
+#484,49,Male,Rural,45150,Technology,29,7,114,624,Apparel,217,11,True,46-55,Low,0.4608,172.53,0,798,0,0
+#485,18,Female,Urban,51852,Food,10,8,10,987,Books,2,29,False,18-25,Low,0.4861,29610.0,19,80,0,0
+#486,22,Male,Rural,62870,Travel,19,0,70,307,Home & Kitchen,536,17,False,18-25,Mid,0.4131,34.37,10,0,0,0
+#487,62,Female,Rural,139796,Travel,25,3,23,3482,Apparel,356,26,True,56+,High,0.4805,586.85,4,69,0,0
+#488,21,Female,Suburban,72756,Fashion,4,3,189,2894,Electronics,165,23,True,18-25,Mid,0.3497,1052.36,25,567,0,0
+#489,33,Female,Suburban,135357,Sports,29,1,15,248,Books,91,48,True,26-35,High,0.3848,163.52,0,15,0,0
+#490,41,Male,Suburban,139052,Fashion,29,5,112,537,Health & Beauty,167,20,True,36-45,High,0.4099,192.93,0,560,0,0
+#491,33,Male,Suburban,76481,Technology,19,2,19,2302,Books,207,45,True,26-35,Mid,0.473,667.25,10,38,0,0
+#492,19,Male,Urban,21283,Sports,11,6,80,3849,Home & Kitchen,282,2,True,18-25,Low,0.4037,818.94,18,480,0,0
+#493,45,Male,Urban,53691,Technology,2,4,99,3261,Books,65,24,False,36-45,Low,0.3362,3010.15,27,396,0,0
+#494,49,Female,Suburban,21125,Food,10,3,167,4001,Health & Beauty,516,31,False,46-55,Low,0.6055,465.23,19,501,0,0
+#495,44,Male,Urban,87065,Technology,29,4,158,4553,Electronics,157,27,True,36-45,Mid,0.4089,1740.0,0,632,1,0
+#496,37,Male,Suburban,148734,Food,11,7,135,3345,Apparel,306,2,False,36-45,High,0.4567,655.88,18,945,0,0
+#497,41,Female,Rural,46170,Food,25,2,197,4651,Home & Kitchen,395,14,False,36-45,Low,0.3894,706.48,4,394,1,0
+#498,29,Male,Rural,28438,Technology,20,6,106,2923,Health & Beauty,74,4,False,26-35,Low,0.2943,2370.0,9,636,0,0
+#499,52,Female,Rural,40095,Technology,16,5,83,4824,Home & Kitchen,187,49,False,46-55,Low,0.6029,1547.81,13,415,0,0
+#500,50,Female,Suburban,36154,Food,19,0,124,3370,Books,574,13,False,46-55,Low,0.4103,352.26,10,0,0,0
+#501,50,Female,Rural,28004,Sports,23,6,179,585,Home & Kitchen,337,36,False,46-55,Low,0.6485,104.15,6,1074,0,0
+#502,60,Female,Urban,29752,Food,24,6,60,299,Health & Beauty,568,35,True,56+,Low,0.7777,31.58,5,360,0,1
+#503,54,Female,Rural,75426,Travel,11,0,65,4566,Apparel,240,44,True,46-55,Mid,0.4083,1141.5,18,0,0,0
+#504,29,Female,Rural,128896,Food,14,8,50,2082,Apparel,533,8,True,26-35,High,0.6662,234.37,15,400,0,1
+#505,20,Female,Rural,46819,Sports,2,5,41,1571,Home & Kitchen,141,2,False,18-25,Low,0.2822,668.51,27,205,0,0
+#506,18,Female,Urban,122168,Travel,23,1,24,4443,Electronics,265,6,True,18-25,High,0.2243,1005.96,6,24,0,0
+#507,50,Male,Suburban,112051,Fashion,28,4,71,4983,Home & Kitchen,139,31,True,46-55,High,0.4234,2150.94,1,284,0,0
+#508,57,Male,Urban,147905,Fashion,5,3,164,2411,Books,459,10,True,56+,High,0.4408,315.16,24,492,0,0
+#509,27,Male,Suburban,44217,Sports,27,6,37,3473,Apparel,70,44,False,26-35,Low,0.5419,2976.86,2,222,0,0
+#510,60,Male,Suburban,145949,Food,5,7,73,2178,Apparel,385,21,True,56+,High,0.6218,339.43,24,511,0,1
+#511,61,Female,Rural,108708,Technology,19,0,196,1621,Apparel,198,42,False,56+,High,0.3712,491.21,10,0,0,0
+#512,46,Male,Suburban,52994,Sports,21,4,195,704,Electronics,205,10,True,46-55,Low,0.3308,206.05,8,780,0,0
+#513,30,Female,Urban,35036,Travel,12,2,139,3948,Electronics,568,23,True,26-35,Low,0.5471,417.04,17,278,0,0
+#514,29,Male,Urban,97275,Travel,18,0,136,3442,Health & Beauty,431,3,True,26-35,Mid,0.264,479.16,11,0,0,0
+#515,48,Male,Suburban,117756,Fashion,4,2,45,1517,Home & Kitchen,325,32,False,46-55,High,0.4609,280.06,25,90,0,0
+#516,63,Male,Rural,69416,Travel,22,5,123,4697,Home & Kitchen,442,20,False,56+,Mid,0.5712,637.6,7,615,0,0
+#517,19,Female,Rural,29587,Sports,17,6,22,3975,Books,288,10,False,18-25,Low,0.4573,828.12,12,132,0,0
+#518,52,Male,Urban,130053,Travel,10,7,24,3033,Apparel,226,29,False,46-55,High,0.5785,805.22,19,168,0,0
+#519,40,Female,Rural,115665,Sports,20,3,98,648,Electronics,64,41,False,36-45,High,0.403,607.5,9,294,0,0
+#520,34,Female,Suburban,20645,Technology,6,2,197,938,Books,560,46,True,26-35,Low,0.6862,100.5,23,394,0,1
+#521,43,Male,Suburban,50930,Fashion,25,4,31,3915,Books,498,34,True,36-45,Low,0.6526,471.69,4,124,0,1
+#522,25,Male,Urban,101835,Travel,14,8,83,947,Electronics,60,37,False,18-25,High,0.5701,947.0,15,664,0,0
+#523,46,Male,Suburban,142232,Sports,11,5,34,4809,Home & Kitchen,397,20,False,46-55,High,0.5448,726.8,18,170,0,0
+#524,43,Female,Urban,50090,Food,11,8,110,4607,Apparel,257,8,True,36-45,Low,0.5044,1075.56,18,880,0,0
+#525,27,Male,Suburban,107489,Fashion,29,5,185,4873,Home & Kitchen,577,7,False,26-35,High,0.569,506.72,0,925,0,0
+#526,43,Female,Urban,72142,Technology,18,1,180,4354,Books,239,6,True,36-45,Mid,0.2091,1093.05,11,180,0,0
+#527,51,Female,Rural,131979,Sports,27,4,126,4568,Apparel,38,11,False,46-55,High,0.2392,7212.63,2,504,0,0
+#528,58,Male,Suburban,46475,Technology,23,8,175,2372,Health & Beauty,25,44,True,56+,Low,0.5933,5692.8,6,1400,0,0
+#529,24,Male,Suburban,38888,Technology,22,7,50,3420,Books,410,18,False,18-25,Low,0.6177,500.49,7,350,0,0
+#530,21,Female,Urban,63732,Travel,18,6,182,2658,Home & Kitchen,461,42,False,18-25,Mid,0.7587,345.94,11,1092,0,0
+#531,62,Female,Urban,101623,Travel,24,0,97,4798,Home & Kitchen,571,29,True,56+,High,0.5086,504.17,5,0,0,0
+#532,28,Female,Suburban,66305,Sports,23,3,177,4411,Home & Kitchen,417,25,True,26-35,Mid,0.51,634.68,6,531,0,0
+#533,46,Male,Urban,66037,Food,11,6,119,2096,Electronics,357,21,False,46-55,Mid,0.5665,352.27,18,714,0,0
+#534,53,Female,Suburban,29346,Sports,21,6,129,3773,Books,383,46,False,46-55,Low,0.738,591.07,8,774,0,0
+#535,42,Male,Rural,20587,Food,12,5,106,1664,Apparel,158,3,True,36-45,Low,0.2984,631.9,17,530,0,0
+#536,38,Female,Urban,32763,Technology,5,7,154,4118,Home & Kitchen,569,18,False,36-45,Low,0.7109,434.24,24,1078,0,0
+#537,53,Female,Suburban,79165,Fashion,23,5,66,1940,Home & Kitchen,433,24,True,46-55,Mid,0.5909,268.82,6,330,0,0
+#538,27,Male,Rural,127481,Sports,9,9,139,3391,Electronics,48,47,True,26-35,High,0.6645,4238.75,20,1251,0,1
+#539,54,Female,Rural,89615,Sports,27,2,105,2987,Apparel,328,38,False,46-55,Mid,0.5002,546.4,2,210,0,0
+#540,26,Male,Suburban,56116,Food,25,3,130,826,Books,433,10,True,26-35,Low,0.4256,114.46,4,390,0,0
+#541,41,Male,Urban,140987,Technology,9,2,71,1344,Health & Beauty,431,27,True,36-45,High,0.4918,187.1,20,142,0,0
+#542,52,Female,Suburban,105751,Technology,22,0,146,3560,Electronics,56,12,False,46-55,High,0.1004,3814.29,7,0,1,0
+#543,52,Male,Rural,111353,Food,10,9,77,3818,Books,577,7,True,46-55,High,0.7246,397.02,19,693,0,1
+#544,53,Male,Suburban,110301,Technology,22,4,90,1165,Health & Beauty,268,17,True,46-55,High,0.4115,260.82,7,360,0,0
+#545,35,Female,Urban,115648,Travel,19,0,26,4871,Home & Kitchen,69,1,True,26-35,High,0.0393,4235.65,10,0,0,0
+#546,56,Male,Rural,45556,Fashion,1,0,126,382,Home & Kitchen,449,26,True,56+,Low,0.4183,51.05,28,0,0,0
+#547,49,Male,Suburban,79042,Sports,7,1,59,1181,Apparel,257,15,False,46-55,Mid,0.2759,275.72,22,59,0,0
+#548,41,Male,Urban,38099,Fashion,4,3,121,3985,Health & Beauty,490,33,True,36-45,Low,0.6028,487.96,25,363,0,0
+#549,40,Female,Rural,129089,Sports,1,5,103,2981,Home & Kitchen,49,37,False,36-45,High,0.447,3650.2,28,515,0,0
+#550,49,Male,Urban,65096,Travel,15,7,177,2684,Home & Kitchen,316,47,True,46-55,Mid,0.7438,509.62,14,1239,0,1
+#551,54,Female,Rural,91986,Technology,8,2,195,3070,Apparel,413,31,False,46-55,Mid,0.5062,446.0,21,390,0,0
+#552,29,Female,Suburban,33230,Food,12,0,94,1252,Books,434,35,True,26-35,Low,0.4658,173.09,17,0,0,0
+#553,30,Male,Urban,49009,Travel,22,2,158,3597,Home & Kitchen,2,1,False,26-35,Low,0.0778,107910.0,7,316,0,0
+#554,40,Male,Rural,90969,Fashion,22,2,155,1047,Electronics,145,8,True,36-45,Mid,0.2054,433.24,7,310,0,0
+#555,42,Male,Urban,53866,Food,18,4,192,4860,Electronics,366,12,True,36-45,Low,0.4377,796.72,11,768,0,0
+#556,52,Female,Urban,125400,Technology,15,3,166,1817,Books,420,19,True,46-55,High,0.4742,259.57,14,498,0,0
+#557,58,Male,Suburban,104246,Travel,17,3,161,166,Health & Beauty,573,25,True,56+,High,0.6014,17.38,12,483,0,0
+#558,47,Male,Urban,96975,Food,29,8,83,736,Apparel,561,32,False,46-55,Mid,0.8326,78.72,0,664,0,0
+#559,34,Male,Rural,61855,Travel,14,6,118,413,Electronics,444,12,False,26-35,Mid,0.5612,55.81,15,708,0,0
+#560,37,Male,Rural,101557,Travel,14,3,154,3497,Electronics,434,13,True,36-45,Mid,0.4449,483.46,15,462,0,0
+#561,42,Male,Rural,26416,Technology,18,2,27,664,Books,555,28,False,36-45,Low,0.5707,71.78,11,54,0,0
+#562,39,Female,Rural,92516,Sports,20,5,51,1701,Health & Beauty,57,1,True,36-45,Mid,0.2267,1790.53,9,255,1,0
+#563,30,Female,Suburban,75915,Food,18,2,110,925,Health & Beauty,562,6,True,26-35,Mid,0.4373,98.75,11,220,0,0
+#564,36,Male,Urban,38058,Technology,16,5,54,3770,Books,178,8,False,36-45,Low,0.3414,1270.79,13,270,0,0
+#565,53,Male,Suburban,96637,Travel,1,8,91,1125,Electronics,293,4,False,46-55,Mid,0.5005,230.38,28,728,0,0
+#566,29,Male,Urban,60718,Technology,23,5,26,2351,Apparel,46,5,False,26-35,Mid,0.2452,3066.52,6,130,0,0
+#567,58,Male,Urban,52602,Sports,27,3,82,4857,Electronics,170,25,True,56+,Low,0.3652,1714.24,2,246,0,0
+#568,36,Female,Urban,94658,Food,11,4,23,904,Health & Beauty,271,22,True,36-45,Mid,0.4445,200.15,18,92,0,0
+#569,29,Male,Suburban,98112,Sports,15,5,186,2551,Electronics,417,28,False,26-35,Mid,0.6065,367.05,14,930,0,0
+#570,26,Female,Urban,78067,Fashion,12,2,166,4731,Apparel,139,39,True,26-35,Mid,0.3956,2042.16,17,332,1,0
+#571,24,Female,Suburban,47516,Food,8,7,141,1491,Home & Kitchen,247,23,False,18-25,Low,0.5534,362.19,21,987,1,0
+#572,45,Male,Rural,149295,Sports,22,3,91,1335,Electronics,148,4,False,36-45,High,0.221,541.22,7,273,0,0
+#573,31,Female,Rural,107969,Travel,20,7,157,4132,Books,230,4,False,26-35,High,0.4246,1077.91,9,1099,1,0
+#574,48,Female,Urban,21089,Food,6,9,129,3380,Home & Kitchen,374,47,False,46-55,Low,0.8556,542.25,23,1161,1,0
+#575,36,Female,Suburban,57346,Food,3,9,129,4823,Books,80,21,False,36-45,Low,0.5207,3617.25,26,1161,0,0
+#576,64,Female,Rural,94663,Technology,28,2,56,4944,Books,65,37,False,56+,Mid,0.3397,4563.69,1,112,0,0
+#577,33,Male,Suburban,30487,Travel,24,9,116,3649,Books,88,41,True,26-35,Low,0.6504,2487.95,5,1044,1,1
+#578,22,Male,Suburban,20155,Fashion,26,6,117,4300,Electronics,88,2,True,18-25,Low,0.29,2931.82,3,702,0,0
+#579,52,Female,Urban,143950,Sports,13,8,18,4241,Health & Beauty,204,7,False,46-55,High,0.467,1247.35,16,144,1,0
+#580,29,Male,Rural,87494,Technology,13,3,88,1454,Home & Kitchen,382,49,False,26-35,Mid,0.6394,228.38,16,264,0,0
+#581,42,Male,Urban,96229,Sports,2,7,164,1936,Apparel,476,16,False,36-45,Mid,0.6439,244.03,27,1148,0,0
+#582,38,Male,Urban,124648,Fashion,5,2,24,2992,Health & Beauty,573,17,True,36-45,High,0.5125,313.3,24,48,0,0
+#583,53,Male,Rural,58547,Fashion,17,6,28,2596,Electronics,539,20,False,46-55,Mid,0.6669,288.98,12,168,0,0
+#584,40,Male,Rural,48795,Food,6,2,99,2683,Books,214,23,False,36-45,Low,0.3396,752.24,23,198,0,0
+#585,33,Female,Suburban,75296,Fashion,2,6,189,2658,Apparel,74,34,False,26-35,Mid,0.4818,2155.14,27,1134,1,0
+#586,56,Male,Rural,41447,Sports,4,9,35,3718,Home & Kitchen,61,11,True,56+,Low,0.4471,3657.05,25,315,0,0
+#587,62,Male,Suburban,56598,Travel,22,9,163,1659,Health & Beauty,543,34,False,56+,Low,0.8734,183.31,7,1467,0,0
+#588,59,Male,Suburban,61814,Travel,26,5,163,1607,Health & Beauty,219,33,True,56+,Mid,0.5217,440.27,3,815,0,0
+#589,56,Male,Suburban,110751,Food,11,1,183,4171,Apparel,12,26,True,56+,High,0.201,20855.0,18,183,0,0
+#590,31,Female,Rural,145118,Sports,8,2,101,2163,Electronics,415,2,False,26-35,High,0.3262,312.72,21,202,0,0
+#591,48,Female,Urban,95330,Sports,12,5,186,3742,Home & Kitchen,32,23,True,46-55,Mid,0.3495,7016.25,17,930,0,0
+#592,22,Female,Suburban,141347,Fashion,8,3,91,2100,Apparel,160,41,True,18-25,High,0.4593,787.5,21,273,1,0
+#593,52,Female,Urban,118745,Sports,11,5,190,1394,Books,237,22,True,46-55,High,0.4635,352.91,18,950,0,0
+#594,40,Male,Urban,107960,Technology,22,0,140,4165,Home & Kitchen,181,34,False,36-45,High,0.3112,1380.66,7,0,0,0
+#595,46,Female,Rural,83278,Fashion,20,9,51,2852,Health & Beauty,558,15,True,46-55,Mid,0.7635,306.67,9,459,0,1
+#596,60,Male,Urban,75077,Technology,8,0,28,1853,Apparel,341,10,False,56+,Mid,0.255,326.04,21,0,0,0
+#597,28,Male,Urban,132782,Food,29,2,26,4310,Health & Beauty,458,15,False,26-35,High,0.4326,564.63,0,52,0,0
+#598,35,Male,Rural,142046,Travel,8,7,170,1703,Health & Beauty,80,42,False,26-35,High,0.5742,1277.25,21,1190,0,0
+#599,64,Male,Suburban,122932,Food,26,7,85,1422,Health & Beauty,473,29,True,56+,High,0.7234,180.38,3,595,0,1
+#600,29,Male,Urban,91906,Travel,17,3,186,2541,Electronics,112,23,False,26-35,Mid,0.3187,1361.25,12,558,0,0
+#601,26,Female,Rural,29528,Food,20,5,193,1198,Health & Beauty,292,17,True,26-35,Low,0.4645,246.16,9,965,0,0
+#602,27,Female,Urban,113812,Sports,20,7,72,1605,Books,383,9,True,26-35,High,0.5456,251.44,9,504,0,0
+#603,61,Female,Urban,70100,Technology,23,6,140,1226,Books,17,36,True,56+,Mid,0.4609,4327.06,6,840,0,0
+#604,34,Female,Suburban,129869,Travel,16,6,116,396,Home & Kitchen,493,9,True,26-35,High,0.5712,48.19,13,696,0,0
+#605,55,Male,Urban,28179,Fashion,14,3,58,3149,Health & Beauty,331,16,False,46-55,Low,0.4033,570.82,15,174,0,0
+#606,24,Female,Rural,68781,Technology,11,8,64,2325,Health & Beauty,486,36,False,18-25,Mid,0.8136,287.04,18,512,0,0
+#607,63,Male,Urban,75267,Fashion,7,9,163,4454,Apparel,406,48,True,56+,Mid,0.8806,658.23,22,1467,1,1
+#608,30,Female,Suburban,102379,Technology,16,5,108,3887,Electronics,117,33,False,26-35,High,0.4619,1993.33,13,540,1,0
+#609,57,Male,Suburban,43952,Technology,13,2,61,2196,Home & Kitchen,555,31,False,56+,Low,0.5895,237.41,16,122,0,0
+#610,59,Male,Rural,73798,Food,27,4,109,3709,Health & Beauty,115,6,False,56+,Mid,0.2531,1935.13,2,436,0,0
+#611,26,Female,Suburban,118696,Travel,15,4,126,2308,Apparel,549,10,True,26-35,High,0.5325,252.24,14,504,0,0
+#612,44,Male,Urban,130434,Travel,24,4,127,275,Electronics,547,16,False,36-45,High,0.5688,30.16,5,508,0,0
+#613,19,Male,Suburban,70939,Technology,16,7,16,2602,Home & Kitchen,336,4,True,18-25,Mid,0.4868,464.64,13,112,0,0
+#614,22,Female,Rural,49516,Sports,27,8,55,4099,Home & Kitchen,336,22,False,18-25,Low,0.6382,731.96,2,440,0,0
+#615,46,Male,Suburban,76526,Sports,21,8,55,1767,Health & Beauty,147,13,True,46-55,Mid,0.4711,721.22,8,440,1,0
+#616,54,Female,Suburban,30449,Fashion,23,5,109,4471,Home & Kitchen,122,16,True,46-55,Low,0.3585,2198.85,6,545,0,0
+#617,55,Female,Suburban,70290,Fashion,24,5,153,2645,Apparel,81,29,True,46-55,Mid,0.4158,1959.26,5,765,1,0
+#618,36,Female,Rural,146688,Food,9,8,161,775,Home & Kitchen,375,6,False,36-45,High,0.561,124.0,20,1288,1,0
+#619,25,Male,Suburban,106661,Technology,3,3,198,1923,Books,570,26,True,18-25,High,0.6059,202.42,26,594,0,0
+#620,62,Male,Suburban,92954,Fashion,19,5,63,1456,Apparel,63,11,False,56+,Mid,0.2927,1386.67,10,315,1,0
+#621,18,Male,Urban,42746,Fashion,20,3,71,3172,Electronics,504,24,True,18-25,Low,0.5547,377.62,9,213,0,0
+#622,39,Female,Rural,87990,Technology,5,0,138,3359,Electronics,449,29,False,36-45,Mid,0.4371,448.86,24,0,1,0
+#623,34,Male,Suburban,78810,Food,10,6,58,646,Health & Beauty,428,3,True,26-35,Mid,0.4956,90.56,19,348,0,0
+#624,24,Female,Rural,138362,Fashion,17,9,34,2183,Health & Beauty,427,10,False,18-25,High,0.6554,306.74,12,306,0,0
+#625,42,Female,Suburban,103297,Food,15,5,19,2140,Books,421,1,True,36-45,High,0.4401,304.99,14,95,0,0
+#626,62,Male,Suburban,35223,Travel,23,8,127,4634,Electronics,322,43,True,56+,Low,0.7612,863.48,6,1016,0,1
+#627,21,Female,Suburban,92237,Food,25,6,153,1852,Electronics,166,26,True,18-25,Mid,0.4857,669.4,4,918,0,0
+#628,53,Male,Urban,22597,Sports,8,6,195,1715,Electronics,597,12,False,46-55,Low,0.6509,172.36,21,1170,0,0
+#629,23,Male,Urban,85677,Sports,15,1,166,1949,Electronics,461,14,True,18-25,Mid,0.3892,253.67,14,166,0,0
+#630,48,Male,Urban,22659,Food,21,8,101,2742,Home & Kitchen,459,25,True,46-55,Low,0.729,358.43,8,808,1,1
+#631,36,Male,Rural,106516,Sports,14,9,143,1700,Apparel,189,8,True,36-45,High,0.5034,539.68,15,1287,0,0
+#632,61,Male,Rural,94567,Travel,20,8,153,3496,Apparel,464,43,True,56+,Mid,0.8445,452.07,9,1224,0,1
+#633,56,Female,Urban,35037,Technology,28,5,157,4502,Books,379,4,False,56+,Low,0.4342,712.72,1,785,0,0
+#634,44,Female,Rural,146498,Sports,7,2,89,3705,Home & Kitchen,2,28,True,36-45,High,0.2465,111150.0,22,178,0,0
+#635,27,Female,Suburban,66738,Sports,21,0,80,3899,Electronics,364,7,True,26-35,Mid,0.2497,642.69,8,0,0,0
+#636,43,Male,Suburban,123965,Food,23,3,87,718,Electronics,72,10,False,36-45,High,0.214,598.33,6,261,0,0
+#637,36,Male,Suburban,91678,Travel,12,2,52,1232,Health & Beauty,427,36,False,36-45,Mid,0.5457,173.11,17,104,0,0
+#638,56,Male,Urban,32109,Technology,17,0,163,2215,Health & Beauty,170,2,False,56+,Low,0.1047,781.76,12,0,0,0
+#639,20,Female,Rural,42010,Food,17,2,99,2439,Books,205,26,True,18-25,Low,0.353,713.85,12,198,0,0
+#640,62,Male,Urban,28787,Food,10,3,87,2839,Electronics,337,14,False,56+,Low,0.3943,505.46,19,261,0,0
+#641,30,Female,Rural,128400,Travel,29,7,170,4376,Books,472,16,False,26-35,High,0.6415,556.27,0,1190,1,0
+#642,45,Female,Suburban,28472,Technology,19,8,35,1587,Home & Kitchen,195,43,False,36-45,Low,0.6868,488.31,10,280,0,0
+#643,37,Male,Urban,135111,Travel,14,2,130,1657,Apparel,275,42,True,36-45,High,0.4941,361.53,15,260,0,0
+#644,45,Male,Rural,43383,Technology,11,5,54,2213,Electronics,7,17,True,36-45,Low,0.2974,18968.57,18,270,1,0
+#645,25,Female,Rural,81709,Travel,2,9,72,1144,Home & Kitchen,566,46,True,18-25,Mid,0.9619,121.27,27,648,0,1
+#646,58,Male,Suburban,89785,Food,18,4,189,2531,Electronics,573,22,False,56+,Mid,0.6216,265.03,11,756,0,0
+#647,56,Female,Urban,133253,Food,7,5,77,1682,Health & Beauty,599,4,True,56+,High,0.5632,168.48,22,385,0,0
+#648,18,Male,Urban,54518,Fashion,12,3,163,1408,Books,178,19,False,18-25,Low,0.3323,474.61,17,489,0,0
+#649,20,Male,Urban,73909,Sports,26,9,11,701,Health & Beauty,242,2,False,18-25,Mid,0.497,173.8,3,99,1,0
+#650,30,Female,Suburban,38351,Travel,2,5,151,1720,Apparel,203,39,False,26-35,Low,0.5498,508.37,27,755,0,0
+#651,45,Male,Urban,89624,Fashion,27,6,117,4980,Health & Beauty,543,9,True,36-45,Mid,0.6005,550.28,2,702,0,0
+#652,42,Female,Suburban,73330,Sports,20,8,39,4866,Electronics,462,19,False,36-45,Mid,0.6933,631.95,9,312,0,0
+#653,50,Male,Suburban,142477,Travel,18,9,58,200,Health & Beauty,80,16,False,46-55,High,0.4895,150.0,11,522,0,0
+#654,55,Female,Suburban,35282,Technology,6,6,149,4371,Electronics,523,25,True,46-55,Low,0.6888,501.45,23,894,1,1
+#655,23,Female,Rural,104866,Sports,24,5,53,337,Apparel,417,48,False,18-25,High,0.7315,48.49,5,265,0,0
+#656,61,Male,Urban,127945,Food,10,0,170,4125,Health & Beauty,384,18,False,56+,High,0.3302,644.53,19,0,0,0
+#657,62,Female,Urban,41778,Fashion,20,1,22,3018,Books,391,23,False,56+,Low,0.4044,463.12,9,22,0,0
+#658,49,Male,Suburban,44264,Sports,15,0,87,2642,Books,126,21,True,46-55,Low,0.1977,1258.1,14,0,0,0
+#659,62,Male,Suburban,79675,Sports,5,8,135,2103,Books,494,11,False,56+,Mid,0.6621,255.43,24,1080,0,0
+#660,64,Male,Urban,25075,Food,20,9,107,1637,Health & Beauty,47,39,True,56+,Low,0.6139,2089.79,9,963,0,0
+#661,38,Female,Suburban,95948,Travel,3,9,35,854,Health & Beauty,476,41,True,36-45,Mid,0.8779,107.65,26,315,0,1
+#662,33,Female,Urban,68454,Technology,5,8,158,3468,Health & Beauty,464,4,False,26-35,Mid,0.6007,448.45,24,1264,0,0
+#663,38,Male,Rural,48365,Food,25,6,165,2358,Electronics,123,25,False,36-45,Low,0.4543,1150.24,4,990,0,0
+#664,28,Male,Suburban,92766,Technology,8,1,57,3765,Apparel,474,32,False,26-35,Mid,0.5094,476.58,21,57,0,0
+#665,54,Female,Urban,68200,Travel,8,5,177,4335,Books,134,30,False,46-55,Mid,0.4531,1941.04,21,885,1,0
+#666,53,Male,Suburban,31002,Sports,8,3,75,640,Electronics,562,45,True,46-55,Low,0.72,68.33,21,225,0,1
+#667,52,Male,Urban,33947,Technology,12,0,96,369,Books,23,26,True,46-55,Low,0.1686,962.61,17,0,0,0
+#668,36,Female,Urban,99222,Fashion,24,0,88,3560,Electronics,566,36,False,36-45,Mid,0.5494,377.39,5,0,0,0
+#669,37,Male,Suburban,114840,Fashion,23,4,32,3508,Health & Beauty,235,34,True,36-45,High,0.4984,895.66,6,128,0,0
+#670,35,Female,Rural,136219,Food,8,1,90,605,Books,59,9,False,26-35,High,0.1223,615.25,21,90,0,0
+#671,64,Male,Urban,98610,Travel,11,3,57,1229,Health & Beauty,164,12,False,56+,Mid,0.2804,449.63,18,171,0,0
+#672,58,Female,Urban,72142,Food,14,0,133,2179,Books,216,2,False,56+,Mid,0.1317,605.28,15,0,0,0
+#673,31,Male,Urban,76307,Food,8,3,139,3245,Home & Kitchen,183,38,False,26-35,Mid,0.454,1063.93,21,417,1,0
+#674,32,Male,Rural,24493,Food,29,5,93,3342,Electronics,569,5,True,26-35,Low,0.5519,352.41,0,465,0,0
+#675,48,Female,Rural,144023,Fashion,24,9,29,461,Home & Kitchen,90,5,True,46-55,High,0.4266,307.33,5,261,0,0
+#676,18,Male,Suburban,70085,Fashion,28,3,196,3820,Electronics,311,22,False,18-25,Mid,0.4291,736.98,1,588,0,0
+#677,20,Female,Rural,54228,Food,10,0,55,1556,Apparel,557,5,False,18-25,Low,0.3504,167.61,19,0,0,0
+#678,33,Male,Suburban,99676,Fashion,7,6,140,4167,Books,257,4,True,26-35,Mid,0.4016,972.84,22,840,0,0
+#679,40,Female,Suburban,71875,Travel,28,1,192,4295,Apparel,533,9,True,36-45,Mid,0.4002,483.49,1,192,0,0
+#680,28,Female,Rural,51655,Food,17,8,21,1781,Apparel,533,29,True,26-35,Low,0.7974,200.49,12,168,0,1
+#681,29,Female,Suburban,63472,Fashion,4,2,49,1152,Electronics,52,22,False,26-35,Mid,0.2383,1329.23,25,98,0,0
+#682,27,Female,Rural,69437,Technology,29,7,75,2609,Home & Kitchen,338,27,True,26-35,Mid,0.6317,463.14,0,525,0,1
+#683,49,Male,Suburban,69416,Food,13,7,109,4827,Health & Beauty,171,10,False,46-55,Mid,0.4276,1693.68,16,763,0,0
+#684,33,Male,Rural,79711,Food,4,2,87,781,Electronics,67,16,False,26-35,Mid,0.2096,699.4,25,174,0,0
+#685,25,Female,Rural,26816,Travel,5,3,25,4032,Health & Beauty,300,42,True,18-25,Low,0.5476,806.4,24,75,0,0
+#686,55,Female,Suburban,97175,Sports,26,1,92,2229,Apparel,232,42,False,46-55,Mid,0.43,576.47,3,92,0,0
+#687,29,Female,Urban,84307,Sports,22,3,171,4949,Health & Beauty,68,10,True,26-35,Mid,0.2116,4366.76,7,513,1,0
+#688,41,Male,Suburban,132728,Travel,4,8,53,4116,Home & Kitchen,506,6,False,36-45,High,0.6378,488.06,25,424,0,0
+#689,45,Male,Rural,66733,Travel,18,1,143,3402,Electronics,28,49,False,36-45,Mid,0.3541,7290.0,11,143,0,0
+#690,25,Male,Urban,148202,Travel,6,2,109,819,Home & Kitchen,51,5,False,18-25,High,0.1315,963.53,23,218,0,0
+#691,45,Male,Suburban,115028,Sports,24,3,31,174,Home & Kitchen,260,6,False,36-45,High,0.2992,40.15,5,93,0,0
+#692,53,Female,Suburban,136450,Travel,24,4,27,1393,Electronics,591,47,False,46-55,High,0.7884,141.42,5,108,0,0
+#693,43,Female,Suburban,31240,Fashion,23,0,21,2022,Home & Kitchen,586,25,False,36-45,Low,0.4924,207.03,6,0,0,0
+#694,25,Female,Urban,118234,Food,22,6,189,4257,Books,184,4,True,18-25,High,0.3588,1388.15,7,1134,0,0
+#695,45,Male,Rural,112493,Food,2,9,132,419,Books,23,40,True,36-45,High,0.6061,1093.04,27,1188,0,0
+#696,45,Male,Suburban,145149,Technology,23,6,126,2249,Books,129,48,False,36-45,High,0.6015,1046.05,6,756,0,0
+#697,54,Male,Suburban,118344,Technology,11,8,60,1552,Health & Beauty,291,32,True,46-55,High,0.6743,320.0,18,480,0,1
+#698,58,Female,Suburban,91363,Food,28,3,80,1655,Home & Kitchen,501,35,False,56+,Mid,0.6217,198.2,1,240,1,0
+#699,53,Female,Suburban,52762,Fashion,14,5,57,4307,Electronics,186,10,True,46-55,Low,0.3586,1389.35,15,285,0,0
+#700,44,Male,Suburban,28259,Sports,5,1,28,3132,Electronics,479,34,True,36-45,Low,0.5248,392.32,24,28,0,0
+#701,34,Female,Rural,70139,Sports,6,3,15,560,Health & Beauty,571,36,False,26-35,Mid,0.669,58.84,23,45,1,0
+#702,26,Male,Rural,148775,Fashion,10,1,93,986,Electronics,492,6,True,26-35,High,0.3574,120.24,19,93,0,0
+#703,50,Male,Suburban,34849,Sports,8,9,164,3633,Books,513,43,False,46-55,Low,0.9121,424.91,21,1476,0,0
+#704,37,Female,Urban,101768,Travel,14,4,62,4036,Home & Kitchen,67,46,True,36-45,High,0.4749,3614.33,15,248,0,0
+#705,30,Male,Rural,126108,Food,24,6,116,1215,Electronics,467,16,False,26-35,High,0.5997,156.1,5,696,0,0
+#706,45,Female,Urban,109709,Food,3,0,110,1175,Electronics,285,19,True,36-45,High,0.2784,247.37,26,0,0,0
+#707,46,Male,Rural,74869,Fashion,12,9,57,3976,Apparel,417,34,False,46-55,Mid,0.7995,572.09,17,513,1,0
+#708,30,Female,Suburban,146888,Sports,16,9,144,4715,Apparel,100,25,True,26-35,High,0.5575,2829.0,13,1296,0,0
+#709,63,Female,Rural,83095,Technology,28,6,196,2024,Apparel,189,31,False,56+,Mid,0.5305,642.54,1,1176,0,0
+#710,52,Female,Suburban,137886,Technology,23,9,78,1026,Home & Kitchen,388,49,True,46-55,High,0.8763,158.66,6,702,0,1
+#711,23,Male,Rural,90910,Sports,17,5,20,4752,Books,241,41,False,18-25,Mid,0.5846,1183.07,12,100,0,0
+#712,35,Male,Suburban,106710,Technology,1,5,152,2381,Books,417,17,True,26-35,High,0.5377,342.59,28,760,0,0
+#713,22,Female,Suburban,43567,Fashion,23,7,140,1155,Books,176,47,False,18-25,Low,0.6617,393.75,6,980,0,0
+#714,64,Female,Suburban,55292,Fashion,10,7,131,4774,Home & Kitchen,387,30,True,56+,Low,0.6792,740.16,19,917,0,1
+#715,42,Male,Suburban,94813,Sports,25,5,78,641,Home & Kitchen,471,39,False,36-45,Mid,0.7069,81.66,4,390,0,0
+#716,19,Male,Urban,117136,Technology,23,2,32,2261,Apparel,233,31,False,18-25,High,0.4007,582.23,6,64,0,0
+#717,27,Male,Suburban,71631,Fashion,10,4,190,2351,Electronics,452,19,False,26-35,Mid,0.5319,312.08,19,760,0,0
+#718,47,Female,Urban,29885,Fashion,21,1,46,1152,Health & Beauty,277,35,False,46-55,Low,0.4126,249.53,8,46,0,0
+#719,62,Male,Urban,79659,Travel,24,4,18,4669,Health & Beauty,229,29,True,56+,Mid,0.4636,1223.32,5,72,0,0
+#720,22,Male,Suburban,74306,Travel,2,8,24,2844,Electronics,171,1,True,18-25,Mid,0.4102,997.89,27,192,0,0
+#721,50,Female,Urban,86314,Fashion,9,9,140,3969,Apparel,213,4,True,46-55,Mid,0.4925,1118.03,20,1260,1,0
+#722,18,Male,Rural,85087,Sports,22,0,102,4581,Electronics,282,28,False,18-25,Mid,0.3329,974.68,7,0,0,0
+#723,35,Male,Suburban,49165,Food,13,9,26,4257,Electronics,41,18,False,26-35,Low,0.4791,6229.76,16,234,0,0
+#724,49,Male,Urban,78929,Food,25,4,163,4710,Health & Beauty,122,26,False,46-55,Mid,0.3822,2316.39,4,652,0,0
+#725,64,Female,Suburban,87028,Fashion,16,5,158,4625,Apparel,227,40,False,56+,Mid,0.5701,1222.47,13,790,1,0
+#726,28,Female,Suburban,115998,Fashion,18,6,81,4775,Home & Kitchen,294,19,False,26-35,High,0.517,974.49,11,486,0,0
+#727,38,Female,Suburban,69812,Fashion,19,8,158,1660,Health & Beauty,267,6,True,36-45,Mid,0.4977,373.03,10,1264,0,0
+#728,43,Female,Urban,70500,Sports,12,5,130,3862,Home & Kitchen,541,1,True,36-45,Mid,0.5104,428.32,17,650,0,0
+#729,42,Female,Rural,99151,Travel,8,4,20,1264,Apparel,451,8,True,36-45,Mid,0.4625,168.16,21,80,0,0
+#730,39,Female,Rural,78643,Fashion,17,6,175,2822,Electronics,449,33,False,36-45,Mid,0.6954,377.1,12,1050,0,0
+#731,44,Female,Urban,64900,Fashion,15,0,81,2458,Books,61,43,False,36-45,Mid,0.2971,2417.7,14,0,0,0
+#732,30,Male,Suburban,62946,Technology,10,4,115,570,Books,502,21,False,26-35,Mid,0.5737,68.13,19,460,0,0
+#733,50,Male,Urban,27851,Sports,15,1,134,1516,Apparel,147,24,False,46-55,Low,0.2676,618.78,14,134,0,0
+#734,51,Female,Urban,36288,Fashion,15,3,44,1568,Books,334,25,False,46-55,Low,0.4613,281.68,14,132,0,0
+#735,58,Male,Urban,92692,Technology,23,6,128,908,Home & Kitchen,142,47,False,56+,Mid,0.6029,383.66,6,768,0,0
+#736,52,Male,Suburban,87580,Food,7,4,23,271,Books,44,43,False,46-55,Mid,0.4427,369.55,22,92,0,0
+#737,18,Female,Urban,27368,Fashion,13,5,23,4226,Apparel,144,19,True,18-25,Low,0.3902,1760.83,16,115,1,0
+#738,38,Male,Suburban,105436,Fashion,17,1,19,4242,Apparel,333,29,True,36-45,High,0.4079,764.32,12,19,1,0
+#739,23,Male,Urban,116136,Technology,9,2,149,4325,Home & Kitchen,497,10,False,18-25,High,0.4242,522.13,20,298,0,0
+#740,45,Male,Rural,66403,Sports,8,6,47,2499,Books,396,12,False,36-45,Mid,0.5331,378.64,21,282,0,0
+#741,34,Male,Urban,111170,Fashion,20,1,117,1745,Books,55,33,False,26-35,High,0.27,1903.64,9,117,0,0
+#742,22,Male,Urban,29168,Food,26,5,128,157,Electronics,307,7,True,18-25,Low,0.4108,30.68,3,640,0,0
+#743,48,Female,Rural,106497,Fashion,27,4,43,1229,Health & Beauty,423,17,True,46-55,High,0.5024,174.33,2,172,0,0
+#744,22,Female,Suburban,69879,Food,21,9,178,1453,Apparel,417,10,False,18-25,Mid,0.6495,209.06,8,1602,0,0
+#745,55,Female,Suburban,79871,Travel,18,0,19,867,Electronics,325,31,True,46-55,Mid,0.3769,160.06,11,0,0,0
+#746,20,Male,Urban,129632,Travel,13,9,131,3995,Apparel,80,6,True,18-25,High,0.427,2996.25,16,1179,0,0
+#747,40,Female,Rural,131623,Food,16,3,154,782,Electronics,31,17,True,36-45,High,0.2337,1513.55,13,462,0,0
+#748,54,Male,Suburban,109388,Sports,9,1,154,3554,Health & Beauty,112,37,False,46-55,High,0.3284,1903.93,20,154,1,0
+#749,54,Male,Urban,118646,Fashion,12,3,199,2108,Electronics,558,18,True,46-55,High,0.5489,226.67,17,597,0,0
+#750,27,Male,Rural,52174,Fashion,12,0,124,3242,Apparel,564,26,True,26-35,Low,0.4857,344.89,17,0,1,0
+#751,27,Male,Suburban,119751,Travel,6,1,10,1890,Books,472,49,False,26-35,High,0.6144,240.25,23,10,1,0
+#752,36,Female,Suburban,112491,Food,19,7,21,1577,Apparel,74,16,False,36-45,High,0.4082,1278.65,10,147,0,0
+#753,34,Female,Rural,26581,Fashion,28,5,112,985,Home & Kitchen,553,8,True,26-35,Low,0.5612,106.87,1,560,0,0
+#754,38,Male,Rural,130155,Fashion,7,1,13,4006,Home & Kitchen,479,24,False,36-45,High,0.4623,501.8,22,13,0,0
+#755,31,Female,Rural,91853,Sports,25,5,179,4592,Home & Kitchen,589,13,True,26-35,Mid,0.6136,467.78,4,895,0,0
+#756,26,Male,Rural,84046,Technology,3,9,150,1638,Home & Kitchen,387,29,True,26-35,Mid,0.7507,253.95,26,1350,0,1
+#757,63,Female,Urban,69678,Travel,16,8,107,2173,Health & Beauty,564,32,False,56+,Mid,0.8343,231.17,13,856,0,0
+#758,18,Female,Rural,128392,Travel,18,6,115,412,Books,433,24,False,18-25,High,0.6298,57.09,11,690,1,0
+#759,62,Male,Suburban,131250,Technology,16,8,94,910,Books,412,16,True,56+,High,0.6452,132.52,13,752,0,1
+#760,30,Female,Suburban,46649,Fashion,23,4,130,2335,Apparel,467,11,False,26-35,Low,0.4907,300.0,6,520,1,0
+#761,21,Male,Urban,147795,Sports,7,6,141,2957,Electronics,599,32,False,18-25,High,0.7771,296.19,22,846,0,0
+#762,18,Female,Suburban,108668,Sports,4,6,91,2863,Apparel,248,6,True,18-25,High,0.4088,692.66,25,546,0,0
+#763,57,Male,Suburban,102325,Travel,27,2,28,2132,Apparel,581,35,True,56+,High,0.6297,220.17,2,56,0,1
+#764,49,Male,Rural,34567,Sports,25,6,139,1607,Apparel,120,33,True,46-55,Low,0.5025,803.5,4,834,0,0
+#765,51,Female,Suburban,100404,Technology,8,0,21,4645,Apparel,67,18,True,46-55,Mid,0.1444,4159.7,21,0,0,0
+#766,45,Female,Urban,109906,Fashion,13,8,90,2670,Books,573,37,True,36-45,High,0.8709,279.58,16,720,0,1
+#767,48,Male,Rural,128069,Technology,13,9,83,1994,Electronics,327,13,True,46-55,High,0.6155,365.87,16,747,1,0
+#768,25,Female,Rural,116019,Food,17,5,107,2805,Apparel,470,10,False,18-25,High,0.5251,358.09,12,535,0,0
+#769,56,Female,Urban,81944,Travel,17,4,15,696,Books,493,37,False,56+,Mid,0.6684,84.71,12,60,1,0
+#770,43,Male,Rural,138428,Sports,5,6,145,2247,Apparel,286,26,True,36-45,High,0.5561,471.4,24,870,0,0
+#771,51,Male,Rural,98002,Food,6,4,134,715,Home & Kitchen,312,46,False,46-55,Mid,0.6185,137.5,23,536,1,0
+#772,20,Female,Urban,48803,Sports,19,9,60,1047,Apparel,309,17,False,18-25,Low,0.63,203.3,10,540,0,0
+#773,29,Male,Rural,38230,Fashion,13,4,20,4751,Apparel,97,1,True,26-35,Low,0.2113,2938.76,16,80,1,0
+#774,18,Male,Urban,37862,Fashion,25,9,194,4473,Health & Beauty,113,25,False,18-25,Low,0.5651,2375.04,4,1746,0,0
+#775,61,Male,Urban,63355,Fashion,28,6,136,3864,Home & Kitchen,456,34,False,56+,Mid,0.7057,508.42,1,816,0,0
+#776,22,Female,Suburban,51259,Sports,26,9,149,2113,Electronics,463,39,True,18-25,Low,0.8578,273.82,3,1341,0,1
+#777,47,Female,Suburban,119075,Food,14,6,82,3797,Apparel,132,10,False,46-55,High,0.3658,1725.91,15,492,0,0
+#778,47,Male,Rural,107445,Fashion,22,2,11,590,Electronics,121,20,False,46-55,High,0.2663,292.56,7,22,0,0
+#779,34,Female,Rural,50795,Food,4,2,17,4450,Home & Kitchen,197,7,True,26-35,Low,0.2296,1355.33,25,34,1,0
+#780,64,Male,Urban,134604,Sports,28,9,148,2528,Apparel,482,16,False,56+,High,0.7252,314.69,1,1332,0,0
+#781,40,Female,Rural,28770,Food,7,2,133,641,Health & Beauty,39,37,False,36-45,Low,0.3245,986.15,22,266,0,0
+#782,32,Male,Urban,31093,Sports,8,5,62,1387,Books,566,29,False,26-35,Low,0.7001,147.03,21,310,0,0
+#783,54,Male,Urban,66571,Sports,25,5,19,1733,Health & Beauty,512,12,True,46-55,Mid,0.5622,203.09,4,95,1,0
+#784,38,Female,Rural,20193,Travel,13,2,121,3026,Health & Beauty,474,17,True,36-45,Low,0.4545,383.04,16,242,0,0
+#785,31,Male,Urban,120311,Sports,27,2,17,1452,Books,161,48,False,26-35,High,0.4647,541.12,2,34,0,0
+#786,19,Female,Suburban,37569,Sports,6,7,45,4476,Books,289,20,False,18-25,Low,0.5592,929.27,23,315,0,0
+#787,28,Female,Rural,137082,Technology,6,7,115,1398,Books,200,26,True,26-35,High,0.5446,419.4,23,805,0,0
+#788,56,Male,Suburban,31190,Fashion,24,6,23,4968,Apparel,528,48,True,56+,Low,0.8355,564.55,5,138,1,1
+#789,55,Male,Rural,82824,Travel,28,9,191,4067,Electronics,503,19,False,46-55,Mid,0.7562,485.13,1,1719,0,0
+#790,51,Female,Urban,62752,Travel,21,3,95,4523,Electronics,248,47,True,46-55,Mid,0.5484,1094.27,8,285,0,0
+#791,55,Male,Rural,52327,Travel,3,3,158,2358,Books,383,12,False,46-55,Low,0.4088,369.4,26,474,1,0
+#792,51,Male,Suburban,62070,Technology,28,2,59,4747,Health & Beauty,218,21,False,46-55,Mid,0.3294,1306.51,1,118,0,0
+#793,35,Male,Urban,105925,Sports,3,4,176,2173,Home & Kitchen,87,42,True,26-35,High,0.4616,1498.62,26,704,0,0
+#794,47,Male,Rural,60197,Fashion,13,2,29,801,Books,82,34,True,46-55,Mid,0.3309,586.1,16,58,0,0
+#795,32,Male,Rural,22261,Food,22,7,96,2019,Health & Beauty,62,7,False,26-35,Low,0.3449,1953.87,7,672,0,0
+#796,44,Female,Rural,138424,Sports,2,6,144,2560,Health & Beauty,500,45,False,36-45,High,0.8003,307.2,27,864,1,0
+#797,51,Female,Suburban,113905,Technology,16,2,146,4362,Apparel,42,35,True,46-55,High,0.3137,6231.43,13,292,0,0
+#798,55,Male,Suburban,46512,Sports,22,8,138,4364,Apparel,12,15,False,46-55,Low,0.4045,21820.0,7,1104,0,0
+#799,50,Male,Rural,26716,Sports,29,4,163,4424,Electronics,115,1,True,46-55,Low,0.2218,2308.17,0,652,0,0
+#800,41,Male,Urban,106795,Technology,6,8,175,466,Electronics,218,26,True,36-45,High,0.594,128.26,23,1400,1,0
+#801,32,Female,Urban,48933,Travel,8,6,47,627,Home & Kitchen,106,35,True,26-35,Low,0.5068,354.91,21,282,0,0
+#802,47,Male,Suburban,127225,Travel,23,6,198,4986,Home & Kitchen,528,25,True,46-55,High,0.6917,566.59,6,1188,0,1
+#803,59,Female,Urban,24378,Fashion,8,5,53,3818,Home & Kitchen,472,42,True,56+,Low,0.7262,485.34,21,265,0,1
+#804,34,Female,Suburban,60583,Fashion,25,1,95,3709,Home & Kitchen,387,15,False,26-35,Mid,0.3521,575.04,4,95,0,0
+#805,22,Female,Rural,132082,Travel,6,8,53,4035,Health & Beauty,226,22,True,18-25,High,0.5737,1071.24,23,424,0,0
+#806,46,Male,Suburban,105371,Food,14,5,83,4719,Health & Beauty,481,6,True,46-55,High,0.5065,588.65,15,415,0,0
+#807,21,Female,Suburban,49033,Sports,3,7,128,2253,Electronics,408,15,True,18-25,Low,0.5977,331.32,26,896,0,0
+#808,27,Male,Rural,44000,Food,10,0,199,2008,Apparel,457,24,True,26-35,Low,0.4105,263.63,19,0,0,0
+#809,34,Female,Urban,131032,Sports,3,4,131,3112,Apparel,21,21,True,26-35,High,0.2917,8891.43,26,524,0,0
+#810,27,Male,Suburban,95868,Travel,27,0,143,4328,Books,203,7,True,26-35,Mid,0.1553,1279.21,2,0,1,0
+#811,34,Female,Suburban,62604,Fashion,12,9,154,3122,Health & Beauty,417,29,True,26-35,Mid,0.7683,449.21,17,1386,0,1
+#812,37,Male,Rural,88336,Fashion,17,7,60,3583,Home & Kitchen,416,32,False,36-45,Mid,0.7087,516.78,12,420,0,0
+#813,41,Female,Urban,115074,Food,27,7,47,2820,Home & Kitchen,448,32,False,36-45,High,0.7274,377.68,2,329,1,0
+#814,22,Male,Suburban,115655,Fashion,29,0,161,1870,Books,512,5,False,18-25,High,0.324,219.14,0,0,0,0
+#815,51,Male,Rural,93869,Travel,5,8,60,4213,Apparel,85,4,False,46-55,Mid,0.3785,2973.88,24,480,0,0
+#816,23,Male,Suburban,25410,Food,20,1,19,1877,Home & Kitchen,167,22,True,18-25,Low,0.2669,674.37,9,19,1,0
+#817,19,Male,Rural,103375,Sports,25,8,129,4312,Apparel,384,18,False,18-25,High,0.6413,673.75,4,1032,0,0
+#818,30,Female,Urban,76044,Fashion,9,0,158,897,Books,468,35,True,26-35,Mid,0.4857,115.0,20,0,0,0
+#819,60,Female,Urban,83315,Technology,21,9,79,3315,Apparel,72,17,False,56+,Mid,0.491,2762.5,8,711,0,0
+#820,60,Male,Urban,116055,Fashion,26,8,94,3888,Apparel,521,24,False,56+,High,0.7591,447.75,3,752,1,0
+#821,28,Female,Urban,91344,Sports,20,3,66,3076,Apparel,473,2,True,26-35,Mid,0.399,390.19,9,198,0,0
+#822,64,Male,Suburban,26796,Food,7,8,135,3837,Home & Kitchen,258,13,True,56+,Low,0.5362,892.33,22,1080,1,0
+#823,40,Male,Suburban,106716,Sports,22,6,48,1811,Electronics,275,15,False,36-45,High,0.4809,395.13,7,288,0,0
+#824,33,Female,Urban,74245,Technology,4,5,42,852,Health & Beauty,20,5,False,26-35,Mid,0.23,2556.0,25,210,0,0
+#825,48,Male,Urban,63056,Travel,13,4,196,2569,Apparel,490,3,False,46-55,Mid,0.4542,314.57,16,784,0,0
+#826,28,Male,Urban,37709,Fashion,13,8,27,4069,Apparel,490,37,False,26-35,Low,0.8222,498.24,16,216,1,0
+#827,33,Female,Suburban,139664,Food,10,1,193,1492,Apparel,326,37,True,26-35,High,0.4538,274.6,19,193,0,0
+#828,25,Male,Urban,78557,Travel,18,1,66,2705,Electronics,529,37,False,18-25,Mid,0.5729,306.81,11,66,0,0
+#829,21,Male,Urban,37543,Sports,17,8,105,777,Books,89,3,False,18-25,Low,0.3746,523.82,12,840,0,0
+#830,57,Male,Urban,57418,Food,20,2,57,205,Home & Kitchen,486,35,False,56+,Low,0.574,25.31,9,114,1,0
+#831,21,Male,Rural,114611,Travel,20,7,51,3387,Electronics,350,23,False,18-25,High,0.6137,580.63,9,357,0,0
+#832,42,Female,Urban,123291,Food,13,8,36,4853,Apparel,84,28,False,36-45,High,0.5279,3466.43,16,288,0,0
+#833,20,Female,Rural,133504,Technology,17,7,83,2046,Electronics,387,30,True,18-25,High,0.6792,317.21,12,581,1,1
+#834,49,Female,Rural,123001,Technology,22,3,119,1195,Electronics,87,18,True,46-55,High,0.2727,824.14,7,357,1,0
+#835,20,Male,Urban,116038,Fashion,4,0,189,1882,Electronics,307,36,True,18-25,High,0.3976,367.82,25,0,0,0
+#836,44,Male,Rural,36724,Fashion,1,3,179,4641,Books,154,33,True,36-45,Low,0.4058,1808.18,28,537,0,0
+#837,46,Female,Urban,23828,Technology,1,8,41,3357,Health & Beauty,440,26,True,46-55,Low,0.7241,457.77,28,328,0,1
+#838,49,Male,Suburban,136656,Food,15,1,35,2097,Home & Kitchen,264,48,False,46-55,High,0.4862,476.59,14,35,1,0
+#839,36,Male,Suburban,37087,Technology,13,2,34,4969,Books,421,40,True,36-45,Low,0.5672,708.17,16,68,0,0
+#840,38,Male,Suburban,32605,Fashion,17,9,84,1661,Books,493,17,True,36-45,Low,0.7379,202.15,12,756,0,1
+#841,22,Male,Suburban,51337,Technology,24,7,32,4106,Health & Beauty,411,40,False,18-25,Low,0.7558,599.42,5,224,0,0
+#842,35,Female,Rural,25482,Technology,26,5,66,1775,Books,173,7,True,26-35,Low,0.3322,615.61,3,330,0,0
+#843,45,Female,Urban,85333,Food,8,7,189,1222,Electronics,4,8,True,36-45,Mid,0.3171,18330.0,21,1323,0,0
+#844,59,Female,Urban,112541,Travel,18,6,135,4081,Electronics,472,31,True,56+,High,0.6964,518.77,11,810,0,1
+#845,39,Male,Urban,108296,Fashion,27,4,96,1401,Apparel,110,12,True,36-45,High,0.2876,764.18,2,384,1,0
+#846,38,Female,Suburban,70952,Food,13,8,40,1043,Books,37,48,False,36-45,Mid,0.6254,1691.35,16,320,0,0
+#847,23,Female,Suburban,25463,Technology,23,3,73,4650,Apparel,583,31,False,18-25,Low,0.6448,478.56,6,219,0,0
+#848,18,Male,Urban,132164,Technology,14,5,42,1045,Home & Kitchen,31,44,True,18-25,High,0.4802,2022.58,15,210,0,0
+#849,22,Male,Suburban,90448,Travel,8,1,11,700,Electronics,381,19,False,18-25,Mid,0.3736,110.24,21,11,0,0
+#850,58,Female,Urban,24648,Fashion,8,1,27,2800,Home & Kitchen,268,10,True,56+,Low,0.2511,626.87,21,27,0,0
+#851,29,Female,Urban,53623,Fashion,27,1,184,4920,Health & Beauty,11,39,False,26-35,Low,0.2817,26836.36,2,184,0,0
+#852,43,Female,Urban,79156,Sports,26,9,170,1517,Electronics,344,12,False,36-45,Mid,0.6193,264.59,3,1530,0,0
+#853,63,Female,Urban,55634,Fashion,15,6,93,1624,Home & Kitchen,544,20,False,56+,Low,0.6698,179.12,14,558,0,0
+#854,51,Male,Urban,64602,Travel,27,1,44,3866,Health & Beauty,569,37,False,46-55,Mid,0.5963,407.66,2,44,0,0
+#855,31,Female,Urban,134598,Sports,13,1,188,350,Home & Kitchen,166,48,False,26-35,High,0.4288,126.51,16,188,0,0
+#856,43,Female,Urban,69334,Sports,7,8,123,1644,Health & Beauty,342,41,False,36-45,Mid,0.7604,288.42,22,984,1,0
+#857,62,Male,Suburban,88648,Technology,5,6,155,178,Health & Beauty,482,7,False,56+,Mid,0.5522,22.16,24,930,0,0
+#858,44,Female,Urban,42054,Technology,17,2,119,3223,Electronics,19,14,False,36-45,Low,0.169,10177.89,12,238,1,0
+#859,26,Male,Urban,90028,Fashion,28,2,97,997,Apparel,184,11,False,26-35,Mid,0.247,325.11,1,194,1,0
+#860,43,Male,Suburban,42207,Sports,25,6,81,4976,Health & Beauty,545,7,False,36-45,Low,0.5892,547.82,4,486,1,0
+#861,64,Male,Suburban,100650,Technology,29,4,134,325,Health & Beauty,10,29,False,56+,Mid,0.3352,1950.0,0,536,0,0
+#862,39,Female,Suburban,119821,Travel,16,9,39,1309,Electronics,592,10,True,36-45,High,0.7521,132.67,13,351,0,1
+#863,64,Female,Urban,101554,Technology,23,5,181,4998,Apparel,192,29,False,56+,Mid,0.4808,1561.87,6,905,0,0
+#864,47,Male,Rural,41386,Technology,2,7,62,4937,Books,320,9,True,46-55,Low,0.5087,925.69,27,434,0,0
+#865,60,Female,Rural,103276,Sports,22,8,147,2278,Books,580,36,False,56+,High,0.8687,235.66,7,1176,0,0
+#866,34,Female,Suburban,79518,Sports,18,0,96,2779,Apparel,475,48,True,26-35,Mid,0.5711,351.03,11,0,0,0
+#867,43,Male,Rural,72781,Food,17,2,189,2985,Home & Kitchen,427,10,True,36-45,Mid,0.3832,419.44,12,378,1,0
+#868,53,Male,Suburban,72780,Travel,7,6,186,2906,Electronics,59,19,True,46-55,Mid,0.3793,2955.25,22,1116,0,0
+#869,18,Female,Urban,81440,Sports,13,5,148,803,Apparel,436,31,False,18-25,Mid,0.6364,110.5,16,740,0,0
+#870,25,Male,Rural,64199,Fashion,18,6,195,2644,Books,97,17,False,18-25,Mid,0.389,1635.46,11,1170,0,0
+#871,52,Female,Urban,81035,Travel,29,7,173,2470,Health & Beauty,496,9,False,46-55,Mid,0.6118,298.79,0,1211,0,0
+#872,32,Female,Rural,28210,Travel,14,5,170,3381,Books,278,45,False,26-35,Low,0.6313,729.71,15,850,1,0
+#873,64,Female,Urban,64363,Sports,18,2,184,4810,Health & Beauty,265,33,True,56+,Mid,0.432,1089.06,11,368,1,0
+#874,39,Female,Rural,131175,Travel,13,1,22,428,Electronics,9,34,False,36-45,High,0.2492,2853.33,16,22,0,0
+#875,31,Male,Urban,98279,Sports,11,6,49,4328,Health & Beauty,457,45,False,26-35,Mid,0.7751,568.23,18,294,1,0
+#876,43,Male,Urban,80348,Technology,21,0,98,220,Apparel,273,24,False,36-45,Mid,0.3026,48.35,8,0,0,0
+#877,45,Male,Rural,75284,Food,21,2,77,1064,Health & Beauty,8,9,False,36-45,Mid,0.1313,7980.0,8,154,0,0
+#878,40,Male,Urban,127628,Technology,16,3,51,4324,Home & Kitchen,208,7,False,36-45,High,0.2749,1247.31,13,153,0,0
+#879,31,Female,Urban,129835,Sports,23,0,156,3775,Apparel,123,16,False,26-35,High,0.1647,1841.46,6,0,0,0
+#880,41,Female,Urban,92124,Sports,17,4,103,2176,Electronics,33,19,False,36-45,Mid,0.2862,3956.36,12,412,0,0
+#881,19,Male,Rural,88847,Technology,8,9,28,432,Apparel,513,39,False,18-25,Mid,0.8871,50.53,21,252,0,0
+#882,62,Female,Rural,42432,Fashion,19,2,195,3468,Home & Kitchen,204,6,True,56+,Low,0.2275,1020.0,10,390,0,0
+#883,43,Female,Urban,146252,Fashion,20,1,32,1416,Electronics,518,11,True,36-45,High,0.4039,164.02,9,32,0,0
+#884,31,Female,Urban,84089,Fashion,15,2,63,1296,Books,517,12,False,26-35,Mid,0.4485,150.41,14,126,0,0
+#885,24,Male,Rural,75398,Sports,9,7,74,3270,Home & Kitchen,443,42,False,18-25,Mid,0.787,442.89,20,518,0,0
+#886,20,Male,Rural,119291,Travel,20,5,149,1529,Electronics,592,13,False,18-25,High,0.6153,154.97,9,745,0,0
+#887,64,Male,Urban,23321,Sports,10,6,33,455,Health & Beauty,339,12,False,56+,Low,0.4997,80.53,19,198,1,0
+#888,40,Female,Urban,101348,Travel,12,5,43,4334,Apparel,438,21,True,36-45,Mid,0.5751,593.7,17,215,0,0
+#889,63,Male,Urban,57383,Technology,21,5,62,1626,Electronics,445,10,True,56+,Low,0.5104,219.24,8,310,1,0
+#890,60,Male,Suburban,133816,Food,23,2,145,3997,Apparel,136,20,False,56+,High,0.2751,1763.38,6,290,0,0
+#891,64,Male,Rural,98682,Travel,20,7,27,128,Health & Beauty,387,36,True,56+,Mid,0.7167,19.84,9,189,0,1
+#892,62,Male,Suburban,143053,Fashion,1,6,66,1113,Electronics,25,28,True,56+,High,0.4156,2671.2,28,396,0,0
+#893,35,Male,Rural,99190,Sports,25,6,121,2802,Books,506,24,False,26-35,Mid,0.6726,332.25,4,726,0,0
+#894,55,Male,Rural,72893,Technology,20,5,14,927,Home & Kitchen,325,5,False,46-55,Mid,0.4088,171.14,9,70,0,0
+#895,52,Female,Rural,55820,Fashion,9,4,163,4546,Electronics,338,37,False,46-55,Low,0.5775,806.98,20,652,0,0
+#896,32,Female,Rural,141262,Technology,22,9,167,2124,Health & Beauty,95,12,True,26-35,High,0.4733,1341.47,7,1503,0,0
+#897,42,Male,Rural,86262,Food,15,7,191,398,Electronics,545,35,True,36-45,Mid,0.8031,43.82,14,1337,0,1
+#898,54,Male,Rural,23760,Sports,1,4,22,1965,Apparel,146,40,False,46-55,Low,0.4837,807.53,28,88,0,0
+#899,45,Female,Rural,42190,Sports,12,8,92,4116,Electronics,231,2,False,36-45,Low,0.4516,1069.09,17,736,0,0
+#900,27,Female,Suburban,87411,Food,3,8,38,2211,Books,495,41,True,26-35,Mid,0.8501,268.0,26,304,0,1
+#901,56,Male,Urban,43377,Sports,11,0,12,854,Electronics,38,45,True,56+,Low,0.2961,1348.42,18,0,0,0
+#902,34,Male,Urban,66737,Travel,2,5,99,869,Home & Kitchen,425,39,False,26-35,Mid,0.6799,122.68,27,495,0,0
+#903,56,Male,Suburban,89569,Technology,16,6,113,3835,Electronics,437,42,True,56+,Mid,0.7446,526.54,13,678,1,1
+#904,39,Male,Suburban,58211,Fashion,9,2,132,1338,Apparel,368,9,False,36-45,Mid,0.3424,218.15,20,264,1,0
+#905,43,Female,Suburban,102909,Food,15,6,195,2313,Electronics,345,22,False,36-45,High,0.5657,402.26,14,1170,0,0
+#906,61,Male,Suburban,23744,Travel,12,6,85,2006,Books,160,47,True,56+,Low,0.6135,752.25,17,510,1,0
+#907,42,Male,Rural,145566,Fashion,1,1,139,1664,Health & Beauty,550,5,True,36-45,High,0.3852,181.53,28,139,0,0
+#908,34,Male,Urban,44995,Fashion,13,6,117,1318,Electronics,541,12,True,26-35,Low,0.6181,146.17,16,702,0,0
+#909,30,Male,Rural,36977,Food,14,0,165,4701,Electronics,144,1,False,26-35,Low,0.0832,1958.75,15,0,0,0
+#910,37,Female,Urban,149508,Travel,25,4,91,1457,Home & Kitchen,588,44,False,36-45,High,0.7679,148.67,4,364,0,0
+#911,42,Female,Urban,117938,Fashion,25,8,86,3939,Books,576,22,False,36-45,High,0.7789,410.31,4,688,0,0
+#912,21,Female,Suburban,54542,Fashion,8,6,11,1560,Health & Beauty,345,38,False,18-25,Low,0.6657,271.3,21,66,0,0
+#913,27,Male,Rural,30651,Travel,8,6,136,4085,Apparel,269,19,False,26-35,Low,0.5024,911.15,21,816,0,0
+#914,20,Male,Suburban,119239,Sports,27,1,144,1516,Electronics,268,16,False,18-25,High,0.2886,339.4,2,144,0,0
+#915,58,Female,Rural,98931,Fashion,12,7,35,2953,Health & Beauty,169,31,True,56+,Mid,0.5576,1048.4,17,245,0,0
+#916,62,Male,Urban,115344,Technology,1,2,97,4956,Apparel,33,3,False,56+,High,0.1085,9010.91,28,194,0,0
+#917,35,Male,Suburban,122112,Travel,11,7,25,1528,Books,377,23,False,26-35,High,0.6296,243.18,18,175,1,0
+#918,64,Female,Suburban,36715,Fashion,8,2,160,4478,Books,214,42,False,56+,Low,0.4583,1255.51,21,320,0,0
+#919,53,Female,Urban,64409,Food,10,9,177,4574,Health & Beauty,562,18,False,46-55,Mid,0.7846,488.33,19,1593,0,0
+#920,64,Female,Urban,44306,Technology,19,6,197,4393,Apparel,440,26,True,56+,Low,0.6464,599.05,10,1182,0,1
+#921,39,Female,Urban,39086,Fashion,11,1,82,3162,Books,492,13,False,36-45,Low,0.4012,385.61,18,82,0,0
+#922,51,Male,Suburban,34376,Technology,7,3,41,3171,Health & Beauty,393,18,True,46-55,Low,0.4521,484.12,22,123,0,0
+#923,64,Male,Rural,81350,Technology,11,5,24,655,Books,489,3,True,56+,Mid,0.4925,80.37,18,120,0,0
+#924,25,Female,Suburban,91425,Sports,17,8,150,455,Books,29,23,False,18-25,Mid,0.4644,941.38,12,1200,0,0
+#925,57,Male,Rural,123358,Technology,1,4,14,1663,Books,39,3,False,56+,High,0.1897,2558.46,28,56,0,0
+#926,61,Female,Suburban,56636,Sports,26,8,83,3600,Home & Kitchen,173,25,True,56+,Low,0.5614,1248.55,3,664,0,0
+#927,36,Female,Suburban,106120,Travel,29,4,61,1140,Apparel,17,27,True,36-45,High,0.3268,4023.53,0,244,0,0
+#928,59,Male,Urban,134889,Sports,21,9,86,2786,Health & Beauty,56,44,False,56+,High,0.6504,2985.0,8,774,1,0
+#929,58,Female,Rural,71649,Food,21,7,178,4574,Health & Beauty,226,27,True,56+,Mid,0.566,1214.34,8,1246,0,0
+#930,54,Male,Suburban,54610,Fashion,8,0,190,4875,Apparel,558,39,False,46-55,Low,0.5635,524.19,21,0,1,0
+#931,23,Male,Suburban,30058,Travel,23,6,119,2653,Apparel,67,25,False,18-25,Low,0.4214,2375.82,6,714,0,0
+#932,43,Male,Urban,144876,Travel,24,3,187,1879,Apparel,197,24,True,36-45,High,0.3747,572.28,5,561,0,0
+#933,51,Male,Urban,148265,Food,6,4,152,175,Apparel,23,8,False,46-55,High,0.2116,456.52,23,608,0,0
+#934,62,Female,Rural,94637,Sports,22,5,115,4426,Electronics,237,9,False,56+,Mid,0.3822,1120.51,7,575,0,0
+#935,23,Male,Suburban,98033,Fashion,18,4,136,3419,Health & Beauty,566,46,False,18-25,Mid,0.7675,362.44,11,544,0,0
+#936,54,Female,Rural,90194,Sports,6,0,16,2449,Electronics,138,37,True,46-55,Mid,0.3047,1064.78,23,0,0,0
+#937,50,Female,Suburban,96917,Technology,5,8,49,2873,Books,473,30,True,46-55,Mid,0.7685,364.44,24,392,0,1
+#938,39,Female,Rural,84200,Sports,13,1,165,2362,Books,553,19,True,36-45,Mid,0.4744,256.27,16,165,0,0
+#939,38,Female,Urban,125848,Travel,19,8,169,3329,Health & Beauty,229,16,False,36-45,High,0.5379,872.23,10,1352,0,0
+#940,23,Male,Suburban,126022,Fashion,22,9,108,2216,Books,317,24,True,18-25,High,0.6784,419.43,7,972,0,1
+#941,23,Male,Rural,66619,Sports,8,1,152,492,Apparel,598,44,True,18-25,Mid,0.6571,49.36,21,152,0,1
+#942,21,Female,Urban,37154,Fashion,9,8,94,1208,Electronics,561,21,True,18-25,Low,0.7638,129.2,20,752,0,1
+#943,47,Female,Urban,39539,Fashion,17,5,74,4462,Apparel,201,36,False,46-55,Low,0.5299,1331.94,12,370,1,0
+#944,28,Male,Rural,145381,Technology,3,8,141,710,Books,258,40,False,26-35,High,0.7049,165.12,26,1128,0,0
+#945,47,Female,Suburban,80058,Technology,19,5,20,2875,Electronics,480,39,True,46-55,Mid,0.7122,359.37,10,100,1,1
+#946,48,Male,Suburban,82068,Travel,11,5,117,4098,Apparel,178,47,True,46-55,Mid,0.5851,1381.35,18,585,0,0
+#947,41,Female,Urban,97313,Food,24,1,35,772,Health & Beauty,123,6,True,36-45,Mid,0.1411,376.59,5,35,0,0
+#948,26,Male,Suburban,119932,Fashion,17,7,198,3777,Apparel,342,5,False,26-35,High,0.4966,662.63,12,1386,1,0
+#949,20,Female,Suburban,50373,Food,21,2,174,130,Books,171,14,True,18-25,Low,0.2581,45.61,8,348,0,0
+#950,48,Female,Suburban,53154,Travel,19,6,160,1500,Electronics,59,45,False,46-55,Low,0.5418,1525.42,10,960,0,0
+#951,57,Male,Urban,26031,Fashion,2,4,94,4171,Health & Beauty,465,42,False,56+,Low,0.6832,538.19,27,376,0,0
+#952,54,Female,Rural,113533,Fashion,8,2,177,716,Electronics,260,4,False,46-55,High,0.2478,165.23,21,354,0,0
+#953,53,Female,Suburban,91975,Food,19,0,160,4734,Health & Beauty,373,8,True,46-55,Mid,0.2613,761.5,10,0,0,0
+#954,41,Male,Urban,42785,Sports,7,7,132,2886,Electronics,95,24,True,36-45,Low,0.4705,1822.74,22,924,0,0
+#955,48,Female,Urban,98928,Technology,28,2,153,970,Books,125,11,False,46-55,Mid,0.2124,465.6,1,306,0,0
+#956,23,Male,Rural,138696,Sports,27,1,198,4296,Health & Beauty,41,17,False,18-25,High,0.1618,6286.83,2,198,1,0
+#957,19,Male,Suburban,48669,Food,17,0,77,3704,Home & Kitchen,254,21,False,18-25,Low,0.2727,874.96,12,0,1,0
+#958,37,Female,Suburban,114475,Technology,6,3,113,1512,Electronics,7,26,False,36-45,High,0.2758,12960.0,23,339,1,0
+#959,45,Female,Rural,137154,Sports,19,7,89,2839,Electronics,471,43,True,36-45,High,0.8097,361.66,10,623,0,1
+#960,28,Female,Rural,22282,Technology,24,2,168,1040,Apparel,511,48,True,26-35,Low,0.6699,122.11,5,336,0,1
+#961,21,Female,Urban,54624,Fashion,6,0,62,440,Health & Beauty,581,44,False,18-25,Low,0.6082,45.44,23,0,0,0
+#962,32,Female,Urban,68438,Sports,28,3,115,3008,Home & Kitchen,69,45,False,26-35,Mid,0.4309,2615.65,1,345,0,0
+#963,23,Female,Rural,109900,Technology,2,8,162,4233,Books,81,27,False,18-25,High,0.5199,3135.56,27,1296,0,0
+#964,47,Female,Suburban,87534,Technology,6,0,53,759,Apparel,542,16,True,46-55,Mid,0.4103,84.02,23,0,0,0
+#965,55,Male,Urban,51705,Technology,23,1,149,2133,Home & Kitchen,585,26,False,46-55,Low,0.5369,218.77,6,149,0,0
+#966,19,Female,Urban,58244,Sports,5,8,99,1660,Health & Beauty,262,33,True,18-25,Mid,0.6635,380.15,24,792,1,1
+#967,32,Male,Suburban,94964,Travel,19,1,110,3557,Home & Kitchen,89,31,False,26-35,Mid,0.2774,2397.98,10,110,0,0
+#968,28,Female,Urban,57437,Sports,20,2,106,1756,Electronics,208,48,True,26-35,Low,0.4923,506.54,9,212,0,0
+#969,25,Female,Suburban,97872,Food,4,6,18,3075,Electronics,213,47,True,18-25,Mid,0.6445,866.2,25,108,0,1
+#970,43,Male,Suburban,94878,Sports,22,2,21,1149,Apparel,266,6,False,36-45,Mid,0.2638,259.17,7,42,0,0
+#971,62,Female,Suburban,139006,Technology,26,8,78,553,Health & Beauty,293,44,True,56+,High,0.7505,113.24,3,624,0,1
+#972,61,Female,Rural,125368,Fashion,17,5,191,1804,Health & Beauty,207,8,True,56+,High,0.3584,522.9,12,955,0,0
+#973,22,Male,Rural,92982,Sports,11,2,191,2884,Home & Kitchen,333,7,True,18-25,Mid,0.3093,519.64,18,382,0,0
+#974,23,Female,Rural,70583,Sports,4,8,37,918,Apparel,77,34,True,18-25,Mid,0.5613,715.32,25,296,0,0
+#975,43,Female,Suburban,58392,Technology,26,0,65,4968,Health & Beauty,288,44,False,36-45,Mid,0.4364,1035.0,3,0,0,0
+#976,21,Female,Suburban,27461,Fashion,13,9,108,112,Electronics,47,14,False,18-25,Low,0.4576,142.98,16,972,0,0
+#977,36,Male,Rural,120123,Fashion,20,2,119,4079,Home & Kitchen,200,16,False,36-45,High,0.2876,1223.7,9,238,0,0
+#978,37,Female,Urban,30516,Food,26,0,86,1020,Books,427,43,False,36-45,Low,0.5117,143.33,3,0,0,0
+#979,50,Female,Suburban,99285,Sports,17,1,112,2518,Electronics,210,9,False,46-55,Mid,0.2108,719.43,12,112,0,0
+#980,37,Female,Urban,37514,Fashion,9,7,115,1414,Apparel,420,10,True,36-45,Low,0.5735,202.0,20,805,1,0
+#981,29,Female,Urban,148657,Fashion,4,6,118,3777,Health & Beauty,154,17,True,26-35,High,0.4224,1471.56,25,708,0,0
+#982,64,Male,Suburban,141251,Travel,23,1,121,2117,Electronics,522,12,True,56+,High,0.4125,243.33,6,121,0,0
+#983,18,Male,Suburban,120962,Travel,28,1,67,1328,Books,415,6,True,18-25,High,0.3123,192.0,1,67,1,0
+#984,43,Female,Urban,56268,Fashion,14,8,87,4892,Books,353,19,False,36-45,Low,0.6294,831.5,15,696,0,0
+#985,31,Female,Urban,110486,Food,19,5,84,2534,Apparel,157,43,False,26-35,High,0.5478,968.41,10,420,0,0
+#986,55,Male,Rural,120424,Fashion,26,4,51,2968,Electronics,261,41,True,46-55,High,0.5574,682.3,3,204,0,0
+#987,54,Male,Rural,56788,Technology,28,9,175,2615,Home & Kitchen,77,29,False,46-55,Low,0.569,2037.66,1,1575,0,0
+#988,28,Female,Suburban,95749,Sports,3,5,77,1538,Electronics,488,6,True,26-35,Mid,0.5106,189.1,26,385,0,0
+#989,53,Male,Rural,81049,Food,14,8,190,4264,Books,131,25,True,46-55,Mid,0.5367,1952.98,15,1520,0,0
+#990,30,Female,Rural,82493,Technology,8,6,42,3643,Apparel,579,24,False,26-35,Mid,0.7154,377.51,21,252,0,0
+#991,60,Male,Rural,56027,Food,24,9,80,3275,Apparel,455,25,False,56+,Low,0.7656,431.87,5,720,0,0
+#992,20,Male,Rural,113547,Technology,27,9,65,1881,Home & Kitchen,163,16,False,18-25,High,0.5381,692.39,2,585,0,0
+#993,50,Male,Urban,62849,Sports,28,8,114,2363,Apparel,15,16,False,46-55,Mid,0.4125,9452.0,1,912,0,0
+#994,23,Male,Suburban,120127,Sports,1,3,110,2069,Apparel,232,6,False,18-25,High,0.2828,535.09,28,330,0,0
+#995,27,Female,Rural,37858,Travel,10,1,60,311,Apparel,195,37,False,26-35,Low,0.377,95.69,19,60,0,0
+#996,22,Male,Urban,104162,Technology,18,7,83,607,Apparel,542,21,False,18-25,High,0.7138,67.2,11,581,0,0
+#997,40,Male,Urban,99003,Travel,16,3,180,431,Apparel,359,4,True,36-45,Mid,0.3447,72.03,13,540,0,0
+#998,27,Female,Urban,72395,Technology,8,8,130,650,Books,331,34,False,26-35,Mid,0.7102,117.82,21,1040,0,0
+#999,61,Male,Rural,59758,Travel,1,3,152,1041,Electronics,427,28,True,56+,Mid,0.5346,146.28,28,456,0,0
+#1000,19,Male,Rural,74312,Sports,12,7,175,827,Health & Beauty,497,38,True,18-25,Mid,0.7937,99.84,17,1225,1,1
