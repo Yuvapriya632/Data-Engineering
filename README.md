@@ -1,13 +1,10 @@
+ 📊 Data Engineering & Exploratory Data Analysis Project
 
-```markdown
-# 📊 Data Engineering & Exploratory Data Analysis Project
-
-## 📌 Goal
+ 📌 Goal
 Prepare clean and structured data for machine learning models by performing data preprocessing, feature engineering, and exploratory data analysis (EDA).
 
----
 
-## 📂 Project Structure
+ 📂 Project Structure
 
 ```
 
@@ -44,50 +41,42 @@ project/
 
 ---
 
-## ⚙️ Project Workflow
+ ⚙️ Project Workflow
 
-### 1️⃣ Data Collection
+1️⃣ Data Collection
 - Gathered dataset containing user-related behavioral and transactional data  
 - Includes user activity such as views, clicks, and purchases  
 
----
-
-### 2️⃣ Data Preprocessing
+2️⃣ Data Preprocessing
 - Handled missing values  
 - Removed duplicate records  
 - Standardized data formats  
 - Normalized numerical features  
 - Encoded categorical variables  
 
----
-
-### 3️⃣ Feature Engineering
+ 3️⃣ Feature Engineering
 - Created new meaningful features:
   - User behavior metrics (Engagement Score, Power User, etc.)
   - Customer segmentation (Age Group, Income Tier)
   - Revenue metrics (CLV Proxy, Revenue per Visit)
 - Built structured dataset for machine learning  
 
----
+ 4️⃣ Exploratory Data Analysis (EDA)
 
-### 4️⃣ Exploratory Data Analysis (EDA)
-
-#### 📊 Key Analyses:
+ 📊 Key Analyses:
 - Most viewed products  
 - Top product categories  
 - Purchase behavior patterns  
 - User engagement trends  
 - Feature correlation analysis  
 
-#### 📈 Visualizations:
+📈 Visualizations:
 - Bar charts  
 - Distribution plots  
 - Heatmap  
 - Comparative analysis charts  
 
----
-
-## 📦 Deliverables
+📦 Deliverables
 
 - ✅ **Cleaned Dataset**  
   `data/processed/cleaned_dataset.csv`
