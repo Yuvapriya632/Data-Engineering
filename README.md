@@ -37,7 +37,7 @@ project/
 ├── README.md
 └── requirements.txt
 
-````
+```
 
 ---
 
